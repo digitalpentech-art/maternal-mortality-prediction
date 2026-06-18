@@ -14,8 +14,8 @@ from src.data_preprocessing.preprocessing import MaternalDataPreprocessor
 
 def train_and_evaluate():
     # 1. Load Data
-    data_path = "data/raw/synthetic_masha_data.csv"
-    df = pd.read_csv(data_path)
+    data_path = "data/raw/MASHA DATA CODING.xlsx"
+    df = pd.read_excel(data_path, engine='openpyxl')
     
     # 2. Preprocessing
     preprocessor = MaternalDataPreprocessor()
