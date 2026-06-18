@@ -1,0 +1,1001 @@
+Maternal Age,Education,Occupation,Location,Gravida,Parity,ANCV,PreEC,Delivery Mode,Complications,Outcome
+22,Primary,Civil Servant,Urban,4,1,11,0,Assisted,Sepsis,1
+20,Secondary,Trader,Urban,9,3,11,0,Assisted,Sepsis,0
+32,Primary,Trader,Rural,6,2,2,0,C-Section,None,1
+21,Tertiary,Civil Servant,Rural,1,1,8,1,SVD,Others,1
+38,Secondary,Housewife,Urban,4,2,1,0,SVD,Sepsis,1
+38,Secondary,Civil Servant,Rural,4,2,11,0,Assisted,None,0
+25,Secondary,Trader,Rural,7,4,10,0,SVD,Eclampsia,0
+18,Secondary,Housewife,Rural,7,4,1,0,Assisted,Eclampsia,1
+46,None,Professional,Urban,5,1,3,0,Assisted,Eclampsia,1
+42,None,Civil Servant,Urban,3,3,1,0,SVD,PPH,1
+42,Primary,Professional,Rural,10,7,8,0,Assisted,None,0
+22,Tertiary,Civil Servant,Urban,5,3,2,0,Assisted,Eclampsia,0
+26,Primary,Civil Servant,Urban,3,2,12,0,Assisted,Eclampsia,0
+22,Tertiary,Civil Servant,Urban,1,0,9,0,SVD,Sepsis,0
+49,Secondary,Trader,Rural,9,2,4,0,Assisted,Sepsis,0
+49,Secondary,Civil Servant,Rural,6,3,8,0,SVD,PPH,1
+16,Secondary,None,Urban,1,0,11,0,SVD,None,0
+36,Primary,None,Urban,5,5,7,0,SVD,Others,0
+30,None,Professional,Urban,2,0,10,0,C-Section,Sepsis,0
+18,Primary,Housewife,Rural,6,6,1,0,SVD,Others,1
+42,Secondary,Civil Servant,Rural,4,0,7,0,Assisted,None,1
+49,Primary,Housewife,Urban,3,3,7,0,C-Section,None,0
+15,None,Civil Servant,Rural,5,3,11,0,Assisted,Sepsis,1
+33,Secondary,Housewife,Urban,6,0,0,0,Assisted,Others,1
+47,Primary,Trader,Urban,10,1,10,0,C-Section,None,0
+30,Primary,None,Urban,7,5,4,0,Assisted,Eclampsia,0
+40,Secondary,Civil Servant,Rural,6,6,1,0,SVD,Others,1
+31,Secondary,Civil Servant,Urban,4,2,4,1,Assisted,Others,1
+50,Tertiary,Housewife,Urban,5,0,1,0,SVD,Eclampsia,1
+28,Tertiary,Trader,Rural,9,7,4,0,SVD,None,0
+32,Primary,Housewife,Rural,3,2,2,0,Assisted,Sepsis,1
+22,Primary,Trader,Urban,6,4,8,0,SVD,Eclampsia,0
+17,Tertiary,Trader,Urban,2,1,12,0,C-Section,Others,0
+30,Secondary,Trader,Rural,1,0,11,0,C-Section,PPH,1
+21,None,Housewife,Rural,4,1,7,0,SVD,PPH,1
+27,None,Civil Servant,Rural,2,1,5,0,C-Section,Others,1
+16,Primary,Civil Servant,Urban,10,4,0,1,C-Section,Eclampsia,1
+47,Primary,Professional,Urban,5,0,11,0,Assisted,Others,0
+27,Tertiary,Professional,Urban,6,4,5,0,SVD,Eclampsia,0
+41,Tertiary,Professional,Rural,9,2,3,0,C-Section,PPH,1
+34,None,None,Urban,5,2,3,0,Assisted,Others,1
+44,None,Professional,Urban,9,7,12,0,Assisted,PPH,0
+33,Tertiary,Housewife,Urban,5,1,12,0,SVD,PPH,0
+19,None,Professional,Urban,7,7,6,0,Assisted,None,0
+21,None,Trader,Urban,9,7,0,0,SVD,Sepsis,1
+44,Tertiary,Professional,Rural,9,7,2,0,C-Section,Sepsis,1
+30,Tertiary,None,Rural,4,2,7,1,SVD,Eclampsia,1
+49,Primary,Trader,Urban,4,3,11,0,SVD,Sepsis,0
+49,None,Professional,Urban,4,3,6,0,Assisted,None,0
+39,None,Housewife,Rural,5,3,6,0,Assisted,Others,0
+29,None,Trader,Rural,7,7,0,0,Assisted,Sepsis,1
+44,Secondary,None,Urban,7,0,1,0,SVD,Sepsis,1
+31,None,Civil Servant,Urban,8,5,5,0,C-Section,Eclampsia,0
+41,Tertiary,Housewife,Rural,1,0,5,0,SVD,None,0
+30,Secondary,Housewife,Urban,4,1,7,0,Assisted,PPH,0
+31,Tertiary,Trader,Urban,3,2,1,0,C-Section,Others,0
+39,None,Trader,Urban,10,10,3,1,Assisted,Others,1
+17,Tertiary,None,Rural,6,0,8,0,SVD,Sepsis,0
+21,None,Civil Servant,Rural,3,3,2,0,Assisted,Eclampsia,1
+49,None,Professional,Rural,10,4,5,0,SVD,Eclampsia,0
+30,None,None,Rural,6,0,7,0,SVD,Sepsis,1
+31,Tertiary,Civil Servant,Rural,9,0,8,0,SVD,PPH,0
+46,Secondary,Professional,Rural,8,0,1,0,C-Section,PPH,1
+38,None,None,Rural,7,5,5,0,C-Section,Eclampsia,1
+22,Secondary,Civil Servant,Urban,9,2,3,0,C-Section,Eclampsia,0
+48,Tertiary,Housewife,Urban,5,1,5,0,Assisted,Others,1
+17,Primary,None,Rural,3,3,1,0,Assisted,Eclampsia,1
+43,Tertiary,Trader,Urban,5,3,1,0,C-Section,Sepsis,1
+18,Secondary,Trader,Rural,2,0,1,0,C-Section,Others,1
+29,None,Professional,Rural,5,4,6,0,Assisted,None,0
+21,Secondary,Trader,Rural,2,0,3,0,SVD,None,0
+45,Tertiary,Housewife,Urban,5,5,4,0,C-Section,None,0
+31,Secondary,Professional,Urban,9,3,10,1,SVD,None,1
+34,Tertiary,Professional,Urban,8,4,11,0,C-Section,Others,0
+43,Primary,None,Urban,7,5,9,0,SVD,PPH,0
+16,Tertiary,None,Urban,3,3,8,0,C-Section,PPH,0
+42,None,Housewife,Rural,6,3,5,0,SVD,PPH,1
+46,Tertiary,Professional,Urban,8,1,5,0,SVD,Sepsis,0
+15,None,Professional,Urban,4,4,5,0,C-Section,Sepsis,0
+28,Tertiary,None,Urban,5,3,11,0,SVD,Others,0
+25,Tertiary,None,Urban,9,6,1,0,SVD,Sepsis,0
+24,None,Civil Servant,Rural,7,7,7,0,Assisted,PPH,1
+47,Secondary,Housewife,Rural,7,5,12,0,SVD,Eclampsia,0
+46,Secondary,Professional,Rural,6,2,8,0,C-Section,Sepsis,0
+27,Secondary,None,Rural,4,3,0,0,C-Section,Sepsis,1
+24,None,Housewife,Urban,9,9,5,0,C-Section,None,0
+44,Primary,Trader,Rural,3,0,7,0,C-Section,Eclampsia,0
+40,Primary,Civil Servant,Rural,6,5,11,0,C-Section,Others,1
+19,Secondary,Civil Servant,Urban,2,1,1,0,Assisted,None,0
+34,Primary,Housewife,Rural,1,1,5,0,SVD,PPH,0
+26,Secondary,Trader,Urban,10,6,9,0,C-Section,Others,0
+44,Tertiary,Professional,Rural,1,1,4,0,SVD,None,0
+37,Tertiary,Professional,Rural,8,4,3,0,C-Section,None,1
+37,Tertiary,Civil Servant,Urban,7,4,0,0,Assisted,None,0
+46,Tertiary,Trader,Rural,4,1,9,0,Assisted,PPH,0
+17,Tertiary,Professional,Urban,10,5,11,1,C-Section,Sepsis,1
+23,Tertiary,None,Rural,3,2,7,0,C-Section,Eclampsia,0
+44,Primary,Trader,Urban,7,5,1,0,SVD,Eclampsia,1
+44,Tertiary,Civil Servant,Rural,6,0,10,0,SVD,Others,0
+50,Tertiary,None,Urban,2,2,7,0,C-Section,Sepsis,1
+17,Primary,Civil Servant,Rural,2,0,3,0,SVD,Sepsis,1
+49,None,None,Urban,7,1,7,0,C-Section,None,0
+28,None,Professional,Urban,6,0,10,0,Assisted,Eclampsia,1
+32,Secondary,Housewife,Rural,2,2,3,0,Assisted,None,1
+36,Secondary,Trader,Urban,2,2,3,0,SVD,Eclampsia,0
+15,Tertiary,Trader,Urban,9,4,12,0,SVD,None,0
+30,Tertiary,Housewife,Urban,5,0,2,0,Assisted,None,0
+45,None,Civil Servant,Urban,8,8,3,0,SVD,Others,1
+16,Primary,Professional,Rural,7,1,7,0,C-Section,None,0
+35,Secondary,Housewife,Urban,5,4,10,0,Assisted,Eclampsia,0
+48,Tertiary,Professional,Rural,2,2,1,0,Assisted,Others,1
+28,None,Professional,Urban,7,5,7,0,Assisted,None,0
+35,Tertiary,Civil Servant,Urban,8,1,1,0,SVD,Sepsis,1
+38,Secondary,None,Urban,10,8,8,0,SVD,Sepsis,0
+42,Primary,Civil Servant,Rural,6,0,9,0,SVD,Sepsis,1
+21,Tertiary,None,Rural,2,1,9,0,C-Section,Others,0
+50,Primary,None,Rural,1,0,4,0,C-Section,Eclampsia,1
+26,Secondary,None,Rural,2,0,11,0,SVD,None,0
+28,None,Professional,Rural,6,1,5,0,C-Section,Others,0
+18,Secondary,Trader,Urban,2,1,7,0,C-Section,Others,0
+32,Secondary,None,Urban,6,3,1,0,Assisted,Others,1
+34,Primary,Trader,Rural,10,0,0,0,SVD,PPH,0
+33,Tertiary,Housewife,Urban,8,6,2,0,Assisted,Others,0
+37,Primary,Professional,Urban,7,0,7,0,C-Section,Others,0
+40,None,Civil Servant,Urban,7,0,5,1,Assisted,Eclampsia,1
+21,Secondary,Professional,Rural,9,1,6,0,Assisted,Eclampsia,1
+25,Primary,None,Urban,9,8,3,0,C-Section,Eclampsia,0
+24,Secondary,Housewife,Urban,5,1,2,0,Assisted,None,0
+46,None,None,Rural,10,10,10,0,C-Section,Eclampsia,1
+19,None,Professional,Rural,5,4,0,0,SVD,Eclampsia,1
+17,Primary,Civil Servant,Rural,2,2,1,0,Assisted,Sepsis,1
+50,Primary,Professional,Urban,6,4,7,0,SVD,Sepsis,1
+36,Primary,None,Urban,1,0,11,0,C-Section,Others,0
+25,Tertiary,Civil Servant,Rural,7,6,12,0,Assisted,None,0
+36,Primary,Civil Servant,Urban,9,6,4,0,Assisted,Others,0
+36,Primary,None,Urban,6,2,10,0,C-Section,PPH,0
+20,Tertiary,None,Rural,6,6,2,0,Assisted,Others,1
+42,Tertiary,Housewife,Rural,5,1,3,0,C-Section,PPH,1
+23,Secondary,Housewife,Rural,2,2,12,0,Assisted,Others,1
+36,Secondary,None,Rural,3,1,2,0,Assisted,PPH,1
+17,None,Civil Servant,Urban,8,4,12,0,C-Section,PPH,0
+34,None,Trader,Rural,10,7,7,0,C-Section,Others,0
+25,Secondary,None,Urban,5,0,10,0,C-Section,Others,0
+48,Primary,Civil Servant,Urban,3,2,7,0,SVD,Sepsis,1
+29,None,Civil Servant,Urban,7,0,6,0,SVD,Sepsis,0
+38,Secondary,Housewife,Rural,2,2,10,0,SVD,PPH,1
+45,Secondary,Professional,Rural,10,0,1,0,SVD,Others,0
+48,None,Housewife,Rural,4,2,1,1,Assisted,Others,1
+22,None,None,Urban,9,9,3,0,C-Section,Sepsis,1
+37,Secondary,None,Rural,3,0,8,0,SVD,Others,0
+47,Primary,Professional,Rural,1,1,5,0,SVD,Eclampsia,0
+37,Secondary,Housewife,Rural,3,0,5,0,Assisted,PPH,0
+44,None,Trader,Urban,2,2,12,0,SVD,Eclampsia,1
+27,Primary,Civil Servant,Rural,9,6,8,0,SVD,PPH,0
+18,Tertiary,Civil Servant,Urban,6,3,6,0,C-Section,Eclampsia,0
+46,None,Civil Servant,Rural,2,2,6,0,Assisted,Eclampsia,1
+20,Tertiary,Civil Servant,Rural,8,6,2,0,C-Section,Sepsis,1
+37,None,Civil Servant,Urban,2,2,10,0,Assisted,PPH,0
+24,None,Housewife,Urban,2,0,12,0,C-Section,Sepsis,0
+17,Secondary,Professional,Rural,6,3,12,0,Assisted,Eclampsia,1
+32,Secondary,Housewife,Urban,3,3,8,0,Assisted,None,0
+31,None,Trader,Rural,8,3,1,0,C-Section,PPH,0
+43,Primary,Civil Servant,Rural,2,2,8,0,C-Section,PPH,0
+26,Tertiary,None,Urban,2,0,12,1,SVD,Eclampsia,0
+38,None,None,Urban,10,1,1,0,Assisted,Sepsis,1
+41,Primary,Trader,Rural,2,1,7,0,C-Section,PPH,0
+50,Secondary,Trader,Rural,9,0,1,0,C-Section,PPH,1
+29,Tertiary,None,Rural,2,1,3,0,Assisted,Eclampsia,1
+34,Primary,None,Urban,10,9,2,1,Assisted,None,0
+16,Primary,Housewife,Rural,4,4,6,0,SVD,Sepsis,0
+49,Tertiary,Civil Servant,Rural,4,3,4,0,Assisted,None,0
+41,None,Professional,Urban,6,4,2,0,Assisted,Eclampsia,1
+37,None,Trader,Rural,9,8,1,0,C-Section,None,1
+30,Secondary,Housewife,Urban,5,3,9,0,SVD,Eclampsia,0
+35,Secondary,Trader,Rural,9,7,7,0,C-Section,None,0
+40,None,Trader,Urban,10,5,0,1,Assisted,Sepsis,1
+15,Primary,Professional,Urban,5,5,5,0,C-Section,None,0
+50,Secondary,Civil Servant,Rural,2,1,8,0,Assisted,Eclampsia,0
+22,Secondary,Housewife,Rural,6,6,5,0,C-Section,PPH,1
+47,None,None,Urban,1,0,2,0,C-Section,Others,1
+47,Secondary,Civil Servant,Rural,3,3,9,0,C-Section,Others,1
+47,None,None,Rural,8,0,5,0,SVD,Sepsis,1
+16,None,Civil Servant,Urban,1,1,2,0,Assisted,Others,1
+39,Secondary,Trader,Urban,10,1,3,1,C-Section,PPH,1
+28,None,None,Rural,1,0,8,0,C-Section,Sepsis,0
+35,Secondary,Professional,Rural,9,5,10,0,Assisted,Eclampsia,0
+27,Secondary,Civil Servant,Rural,4,2,12,0,SVD,Sepsis,0
+37,Tertiary,Civil Servant,Urban,10,10,8,0,C-Section,Eclampsia,0
+24,Tertiary,Housewife,Rural,2,1,7,0,Assisted,Sepsis,1
+49,Tertiary,None,Rural,3,0,9,0,SVD,PPH,1
+48,Secondary,Trader,Urban,2,1,5,0,SVD,PPH,1
+50,Secondary,Professional,Rural,8,3,12,0,C-Section,Eclampsia,0
+20,Secondary,None,Urban,3,3,2,0,SVD,Sepsis,0
+26,Tertiary,Housewife,Urban,5,4,9,1,C-Section,Sepsis,0
+49,None,Trader,Rural,5,1,12,0,Assisted,Sepsis,1
+26,Primary,Civil Servant,Rural,10,10,12,1,C-Section,Others,1
+40,Primary,Trader,Urban,8,5,3,1,SVD,Sepsis,1
+36,Tertiary,None,Urban,5,5,5,0,SVD,None,0
+25,None,None,Rural,2,2,4,0,SVD,PPH,0
+45,Secondary,Professional,Rural,7,7,12,0,Assisted,PPH,0
+20,None,None,Rural,2,2,1,0,Assisted,Others,1
+35,None,Housewife,Urban,10,7,1,0,C-Section,None,0
+47,None,Professional,Urban,9,7,10,0,Assisted,None,0
+15,Secondary,None,Urban,1,1,5,0,Assisted,None,0
+19,None,Housewife,Rural,7,2,12,1,C-Section,Sepsis,1
+39,None,Housewife,Urban,6,0,2,0,C-Section,Others,1
+29,Primary,Housewife,Rural,8,8,6,0,SVD,PPH,0
+24,Tertiary,Trader,Urban,1,1,9,0,SVD,PPH,0
+21,Primary,Professional,Urban,4,0,6,0,Assisted,PPH,0
+18,Secondary,None,Rural,4,4,5,0,Assisted,Eclampsia,1
+24,Secondary,Professional,Rural,5,0,8,0,Assisted,PPH,0
+42,None,Housewife,Rural,7,5,11,0,SVD,Eclampsia,1
+49,None,Trader,Urban,5,5,2,0,SVD,Others,1
+41,Secondary,Professional,Urban,5,1,5,0,C-Section,Eclampsia,1
+27,Primary,Civil Servant,Rural,10,9,0,0,SVD,Others,1
+50,Secondary,Professional,Urban,6,2,0,0,SVD,None,0
+45,Secondary,None,Urban,7,3,8,0,C-Section,Sepsis,0
+37,Tertiary,Civil Servant,Rural,9,7,7,1,C-Section,PPH,1
+41,Primary,None,Urban,3,0,4,0,Assisted,Others,0
+33,Secondary,Trader,Rural,4,3,9,0,C-Section,Others,0
+36,Tertiary,Professional,Rural,8,2,11,0,SVD,PPH,0
+46,Secondary,None,Urban,9,0,1,0,Assisted,None,0
+41,Secondary,Trader,Urban,3,0,3,0,C-Section,None,0
+45,None,Housewife,Urban,9,8,6,1,Assisted,Eclampsia,1
+42,Secondary,Housewife,Urban,9,2,3,1,C-Section,Eclampsia,1
+20,Tertiary,Professional,Rural,10,3,11,0,Assisted,None,0
+17,Primary,Professional,Rural,7,7,0,0,Assisted,PPH,1
+42,Tertiary,None,Urban,9,0,3,0,Assisted,Others,1
+17,Primary,Civil Servant,Urban,3,2,0,0,Assisted,PPH,0
+40,Primary,Civil Servant,Urban,10,3,9,0,C-Section,Others,0
+23,Primary,None,Rural,1,0,6,0,SVD,Eclampsia,0
+40,Tertiary,Housewife,Rural,8,7,3,0,C-Section,Sepsis,1
+39,Primary,None,Rural,4,0,1,0,C-Section,PPH,1
+35,Tertiary,Housewife,Urban,1,1,7,0,C-Section,None,0
+26,None,Professional,Rural,2,0,1,0,SVD,Others,1
+35,None,Housewife,Rural,7,6,12,0,Assisted,Others,1
+39,Secondary,Trader,Rural,5,2,7,0,C-Section,Eclampsia,1
+45,Primary,Civil Servant,Rural,4,3,9,0,C-Section,None,0
+15,None,Civil Servant,Rural,6,3,5,0,Assisted,Others,1
+35,Secondary,Professional,Rural,3,3,5,0,Assisted,Sepsis,0
+30,Tertiary,Professional,Rural,7,5,1,0,SVD,Others,0
+26,Primary,Professional,Urban,8,4,11,1,Assisted,Sepsis,1
+34,Secondary,Civil Servant,Urban,7,6,1,0,Assisted,Sepsis,0
+49,None,None,Urban,6,5,12,0,Assisted,None,1
+30,Tertiary,Trader,Urban,10,10,10,0,C-Section,Sepsis,1
+21,Tertiary,Trader,Urban,8,5,6,0,Assisted,Others,0
+24,Tertiary,Housewife,Rural,2,1,6,0,SVD,None,0
+24,Tertiary,Civil Servant,Rural,8,3,8,0,C-Section,None,0
+43,Tertiary,Housewife,Rural,1,0,0,0,Assisted,None,0
+25,Secondary,None,Urban,9,2,5,0,C-Section,PPH,0
+26,Secondary,Professional,Rural,1,0,7,0,C-Section,None,0
+28,Tertiary,Housewife,Urban,9,2,5,0,C-Section,None,0
+46,Tertiary,None,Rural,10,6,9,1,C-Section,Others,1
+34,Primary,Trader,Rural,2,0,4,1,Assisted,PPH,1
+41,Secondary,None,Rural,7,2,7,0,Assisted,PPH,0
+46,Tertiary,Trader,Urban,6,6,7,0,C-Section,None,0
+27,None,None,Rural,7,7,6,0,C-Section,Sepsis,1
+16,Secondary,Civil Servant,Urban,5,1,8,0,C-Section,Others,0
+46,Primary,None,Urban,5,4,5,0,SVD,Sepsis,0
+42,Primary,Trader,Rural,1,1,4,0,SVD,Sepsis,0
+22,Secondary,Trader,Rural,10,10,6,0,SVD,PPH,0
+37,Tertiary,None,Urban,6,5,4,0,C-Section,Others,0
+21,Secondary,Professional,Urban,5,5,2,0,SVD,PPH,1
+35,Secondary,Professional,Rural,3,2,10,0,C-Section,None,0
+20,None,None,Rural,6,3,7,0,SVD,None,0
+44,Tertiary,Housewife,Rural,4,3,3,0,C-Section,Eclampsia,1
+23,None,Civil Servant,Urban,1,0,10,0,C-Section,None,0
+25,None,Professional,Urban,7,3,11,0,Assisted,Eclampsia,1
+32,Primary,Civil Servant,Rural,2,1,10,0,SVD,None,0
+34,Secondary,Professional,Urban,2,0,3,0,SVD,Others,1
+43,Primary,Housewife,Rural,2,1,11,0,SVD,Sepsis,1
+21,Primary,Civil Servant,Rural,5,1,6,0,SVD,PPH,1
+15,Secondary,Professional,Rural,4,1,6,0,C-Section,PPH,1
+21,Secondary,Housewife,Rural,6,3,5,0,SVD,Eclampsia,0
+30,Tertiary,Housewife,Rural,4,4,9,0,Assisted,Sepsis,0
+18,Secondary,Professional,Rural,2,0,7,0,SVD,Others,0
+15,Tertiary,Civil Servant,Urban,7,6,5,0,SVD,Sepsis,0
+19,Primary,None,Urban,1,1,3,0,C-Section,Others,1
+47,None,Professional,Rural,2,2,8,0,SVD,Eclampsia,1
+20,Secondary,Trader,Rural,7,1,4,0,Assisted,PPH,1
+20,None,Housewife,Rural,10,9,0,0,Assisted,PPH,1
+23,Primary,Trader,Rural,6,4,8,0,Assisted,Eclampsia,1
+23,Tertiary,Housewife,Urban,6,6,6,0,SVD,Eclampsia,0
+19,None,Professional,Rural,1,1,9,0,C-Section,None,0
+22,Secondary,None,Urban,1,0,3,1,C-Section,PPH,1
+17,None,Trader,Rural,4,3,11,0,SVD,Others,1
+47,Primary,Trader,Urban,9,0,6,1,C-Section,Eclampsia,1
+50,None,Housewife,Rural,4,2,9,0,Assisted,Others,1
+38,None,Trader,Urban,3,0,6,1,Assisted,None,0
+15,None,Civil Servant,Urban,4,4,3,0,SVD,PPH,1
+20,Primary,Trader,Rural,6,3,11,0,Assisted,PPH,0
+40,Primary,None,Urban,7,2,3,0,C-Section,Sepsis,1
+35,Tertiary,Professional,Rural,4,0,3,0,SVD,None,1
+44,Tertiary,Professional,Urban,9,5,12,0,C-Section,Sepsis,1
+22,Primary,Trader,Rural,10,0,3,0,C-Section,PPH,1
+30,Tertiary,Professional,Urban,5,2,2,1,C-Section,Others,1
+30,Primary,Professional,Urban,3,0,0,0,SVD,PPH,0
+38,Primary,None,Rural,2,0,1,1,SVD,None,0
+36,Primary,Housewife,Rural,1,0,9,0,Assisted,Sepsis,1
+39,None,Trader,Rural,4,1,4,0,SVD,None,0
+30,Tertiary,Professional,Rural,9,7,0,1,SVD,Sepsis,1
+48,Secondary,None,Urban,7,5,7,0,C-Section,Eclampsia,0
+47,Tertiary,Professional,Rural,3,0,5,0,SVD,Eclampsia,1
+45,Tertiary,None,Urban,3,0,3,0,C-Section,Others,0
+18,Secondary,None,Rural,6,6,2,1,Assisted,Eclampsia,1
+16,Tertiary,None,Urban,10,3,12,0,C-Section,Others,0
+46,Primary,Housewife,Urban,4,4,3,1,SVD,Eclampsia,1
+27,Secondary,Civil Servant,Urban,6,0,0,0,SVD,Others,0
+19,Tertiary,Professional,Urban,6,2,5,0,Assisted,Sepsis,0
+46,Tertiary,Trader,Rural,4,4,2,0,Assisted,Eclampsia,1
+15,None,None,Urban,3,2,12,0,SVD,Others,1
+46,Secondary,Civil Servant,Urban,4,2,5,0,Assisted,Eclampsia,0
+31,Secondary,Trader,Urban,6,2,12,0,SVD,Sepsis,0
+41,Secondary,Professional,Rural,7,5,8,0,C-Section,Others,0
+29,Secondary,Professional,Urban,1,1,0,0,SVD,None,0
+39,Secondary,Housewife,Urban,6,4,9,0,Assisted,None,0
+25,None,Trader,Urban,2,1,3,0,C-Section,Others,1
+49,Tertiary,Civil Servant,Rural,4,0,0,0,Assisted,Sepsis,1
+38,Primary,Professional,Urban,5,5,10,0,SVD,None,1
+25,Tertiary,Housewife,Rural,2,1,12,0,C-Section,Eclampsia,1
+49,None,Trader,Rural,7,5,2,0,C-Section,Sepsis,1
+29,Tertiary,None,Urban,3,0,1,0,Assisted,Sepsis,0
+29,Primary,Professional,Rural,9,7,9,0,C-Section,Eclampsia,1
+17,Secondary,Housewife,Rural,3,1,3,0,SVD,None,1
+42,Secondary,Trader,Rural,6,5,12,1,Assisted,Sepsis,1
+32,None,Housewife,Rural,2,1,2,0,SVD,Others,1
+33,Tertiary,Professional,Rural,7,7,9,0,SVD,PPH,0
+24,None,Housewife,Rural,6,5,3,1,C-Section,Eclampsia,1
+34,Tertiary,Civil Servant,Rural,2,0,2,0,Assisted,Sepsis,0
+35,Tertiary,Professional,Urban,4,3,3,0,C-Section,Sepsis,0
+38,Primary,None,Urban,2,1,11,0,SVD,Others,0
+16,Secondary,Trader,Urban,1,0,0,0,C-Section,PPH,1
+44,None,Housewife,Urban,4,2,7,0,SVD,Sepsis,0
+37,Tertiary,Trader,Rural,2,1,0,0,SVD,Others,1
+28,Secondary,Trader,Urban,5,5,6,0,Assisted,None,0
+23,Secondary,None,Urban,4,2,9,0,C-Section,Eclampsia,0
+39,Tertiary,Professional,Rural,4,3,4,0,Assisted,Sepsis,0
+15,Tertiary,None,Rural,5,5,1,0,C-Section,Eclampsia,1
+32,Tertiary,Civil Servant,Urban,3,1,0,0,Assisted,Sepsis,0
+23,Primary,Professional,Rural,5,3,6,0,SVD,Others,0
+27,Tertiary,Trader,Rural,6,4,4,0,Assisted,Others,1
+21,None,Trader,Rural,9,2,10,0,Assisted,None,0
+29,Tertiary,Professional,Rural,6,2,9,0,SVD,Sepsis,1
+19,None,Trader,Urban,7,4,6,0,SVD,PPH,1
+44,Secondary,Civil Servant,Urban,2,1,5,0,SVD,Eclampsia,0
+15,None,Civil Servant,Urban,3,1,7,0,SVD,PPH,0
+42,None,Professional,Rural,7,0,0,0,Assisted,Eclampsia,1
+35,Secondary,Housewife,Urban,4,1,11,0,C-Section,PPH,1
+47,Tertiary,Trader,Urban,1,1,4,0,Assisted,Others,0
+42,Secondary,Civil Servant,Rural,6,6,3,1,SVD,PPH,1
+23,Secondary,Housewife,Urban,2,1,11,0,SVD,Sepsis,0
+31,Primary,None,Urban,2,2,0,0,C-Section,Sepsis,1
+50,Tertiary,Professional,Urban,4,0,4,0,SVD,Others,0
+23,None,Housewife,Urban,5,0,12,0,Assisted,PPH,0
+48,Secondary,Civil Servant,Rural,5,1,0,0,SVD,Sepsis,1
+15,Primary,Housewife,Urban,10,10,7,0,Assisted,None,0
+21,Tertiary,Trader,Rural,5,2,7,0,SVD,Eclampsia,0
+35,None,Housewife,Urban,1,0,2,0,SVD,Eclampsia,1
+43,Tertiary,Housewife,Rural,6,1,1,0,C-Section,Eclampsia,1
+45,None,Trader,Urban,3,0,2,1,Assisted,Sepsis,1
+39,Tertiary,None,Urban,3,3,7,1,C-Section,None,1
+35,Primary,None,Urban,6,4,8,0,Assisted,None,0
+30,None,Civil Servant,Rural,3,0,0,0,SVD,Others,1
+46,Secondary,Housewife,Rural,6,1,5,0,SVD,Others,1
+39,None,Trader,Urban,8,7,12,0,SVD,Sepsis,1
+22,None,Housewife,Urban,7,6,0,0,SVD,None,0
+34,Secondary,Professional,Rural,6,6,0,0,C-Section,Eclampsia,1
+45,Tertiary,Professional,Urban,2,2,3,1,Assisted,Eclampsia,1
+38,Primary,Housewife,Urban,8,2,11,0,C-Section,None,0
+27,Secondary,Housewife,Rural,4,3,12,1,SVD,Sepsis,1
+22,None,Professional,Urban,8,0,8,0,Assisted,Sepsis,0
+45,Secondary,None,Urban,3,0,6,0,Assisted,Eclampsia,0
+39,None,None,Urban,5,3,5,0,C-Section,PPH,1
+47,Tertiary,None,Rural,9,3,3,0,Assisted,Eclampsia,1
+23,Secondary,None,Rural,2,1,8,0,Assisted,Sepsis,0
+49,Tertiary,Professional,Urban,9,1,0,0,SVD,None,1
+25,Tertiary,Civil Servant,Urban,1,1,3,0,SVD,Eclampsia,0
+21,Secondary,None,Rural,4,4,12,0,Assisted,Eclampsia,0
+18,None,Professional,Rural,6,4,0,1,SVD,Others,1
+43,Secondary,Civil Servant,Urban,4,2,7,0,SVD,PPH,0
+22,None,Housewife,Rural,5,4,4,1,SVD,Eclampsia,1
+24,Primary,Trader,Rural,10,0,12,0,Assisted,Eclampsia,0
+50,Tertiary,Housewife,Rural,9,3,2,0,Assisted,PPH,1
+49,None,Housewife,Rural,4,1,10,0,C-Section,Eclampsia,1
+48,None,None,Urban,2,2,5,0,Assisted,Others,0
+30,Primary,Civil Servant,Rural,2,1,4,0,C-Section,None,0
+38,None,Professional,Urban,5,5,3,0,SVD,None,1
+49,Primary,Housewife,Urban,4,3,1,0,Assisted,Sepsis,1
+19,Secondary,Housewife,Rural,6,0,1,0,C-Section,Others,1
+29,Tertiary,Professional,Rural,8,6,6,0,C-Section,None,0
+19,Primary,Housewife,Rural,9,1,4,0,C-Section,Others,1
+43,None,Professional,Urban,8,2,8,0,Assisted,Sepsis,0
+49,Tertiary,Trader,Rural,6,0,8,0,SVD,None,1
+40,Primary,Civil Servant,Urban,6,1,6,0,Assisted,PPH,1
+29,Tertiary,Trader,Urban,3,0,12,0,Assisted,Sepsis,0
+19,Tertiary,Housewife,Rural,2,0,11,0,C-Section,Eclampsia,1
+30,Primary,Civil Servant,Urban,4,2,7,0,Assisted,Eclampsia,0
+24,Tertiary,Civil Servant,Rural,3,0,5,0,SVD,Sepsis,0
+38,Secondary,Civil Servant,Rural,8,7,5,0,C-Section,Others,1
+20,Tertiary,Trader,Urban,5,5,10,0,SVD,Others,0
+40,Secondary,Housewife,Rural,9,8,7,0,SVD,Eclampsia,1
+33,Secondary,Professional,Urban,7,5,8,0,Assisted,PPH,0
+23,None,Trader,Urban,10,9,10,0,SVD,Sepsis,0
+17,Secondary,Professional,Urban,2,1,5,0,Assisted,PPH,0
+38,None,Professional,Rural,1,0,10,0,Assisted,Others,1
+32,Tertiary,None,Urban,7,6,5,0,SVD,Others,0
+29,None,Civil Servant,Rural,8,7,9,0,C-Section,PPH,1
+47,Tertiary,Trader,Urban,3,1,5,0,SVD,PPH,0
+36,Primary,Professional,Rural,8,3,9,1,SVD,PPH,1
+25,Secondary,None,Urban,10,2,0,0,Assisted,Sepsis,0
+16,Tertiary,Housewife,Urban,8,7,7,1,Assisted,PPH,0
+26,Tertiary,Trader,Rural,8,1,3,0,SVD,None,1
+48,None,Trader,Urban,3,3,9,0,Assisted,Others,0
+20,None,Trader,Urban,7,6,5,0,Assisted,Others,0
+45,None,Civil Servant,Urban,7,2,4,0,SVD,None,0
+49,None,Civil Servant,Urban,1,0,9,0,Assisted,None,0
+28,Tertiary,Professional,Rural,2,0,6,0,C-Section,Eclampsia,0
+42,Tertiary,None,Rural,7,3,6,0,Assisted,Sepsis,1
+50,None,Civil Servant,Rural,10,5,12,0,Assisted,PPH,0
+22,Secondary,Professional,Urban,2,0,8,0,C-Section,Others,0
+18,Secondary,Professional,Urban,2,0,7,0,C-Section,None,0
+29,Tertiary,Housewife,Urban,7,6,9,0,C-Section,Others,1
+26,None,Professional,Urban,4,4,4,0,Assisted,PPH,0
+38,Secondary,Housewife,Urban,2,1,12,0,Assisted,Sepsis,0
+27,Primary,Housewife,Urban,9,4,11,0,Assisted,Eclampsia,0
+32,Secondary,None,Urban,8,6,9,0,C-Section,Others,1
+19,Tertiary,Civil Servant,Urban,9,4,8,0,Assisted,Eclampsia,0
+39,None,Trader,Rural,8,7,9,0,C-Section,None,1
+39,Secondary,Trader,Rural,7,5,8,0,Assisted,Eclampsia,1
+20,None,Civil Servant,Urban,9,2,7,0,SVD,Others,0
+27,None,Trader,Urban,4,2,3,0,SVD,Others,1
+21,Primary,Housewife,Rural,10,0,12,0,SVD,Sepsis,0
+35,None,None,Rural,8,2,12,0,C-Section,Sepsis,1
+23,Primary,None,Rural,8,8,0,0,C-Section,PPH,1
+22,None,Civil Servant,Urban,1,0,6,0,C-Section,Eclampsia,0
+31,Secondary,None,Rural,4,2,7,0,C-Section,Eclampsia,1
+42,Secondary,Professional,Rural,6,6,6,0,SVD,Others,1
+29,Primary,Civil Servant,Urban,9,6,6,0,C-Section,None,0
+46,Secondary,None,Rural,8,4,4,0,Assisted,None,0
+25,Primary,Trader,Rural,8,1,7,0,C-Section,Eclampsia,0
+50,Tertiary,Civil Servant,Urban,7,1,5,0,Assisted,PPH,0
+49,Secondary,Civil Servant,Rural,6,5,8,0,Assisted,Sepsis,0
+39,Tertiary,Professional,Urban,3,2,6,0,Assisted,Sepsis,0
+19,Primary,Trader,Rural,4,2,5,0,Assisted,Eclampsia,0
+40,Tertiary,Professional,Rural,10,8,7,0,SVD,None,0
+30,Tertiary,Housewife,Urban,3,3,1,1,Assisted,None,1
+40,Primary,Housewife,Rural,10,2,1,0,C-Section,Eclampsia,1
+33,None,Trader,Urban,9,2,0,1,C-Section,Sepsis,1
+49,Tertiary,None,Rural,3,1,9,0,Assisted,Others,1
+49,Tertiary,Civil Servant,Rural,9,3,12,1,C-Section,Sepsis,1
+34,Primary,Housewife,Urban,6,2,7,0,Assisted,Sepsis,0
+45,Tertiary,Housewife,Rural,5,4,3,0,Assisted,Eclampsia,1
+50,None,Professional,Urban,3,3,6,0,SVD,Sepsis,0
+48,Tertiary,Civil Servant,Rural,7,3,1,1,SVD,Sepsis,1
+32,None,Trader,Rural,1,0,0,0,SVD,PPH,0
+33,Tertiary,Trader,Rural,1,0,1,1,SVD,Eclampsia,1
+46,Tertiary,Professional,Urban,6,0,12,0,SVD,Eclampsia,0
+19,None,Trader,Urban,5,3,0,0,C-Section,Sepsis,1
+17,Secondary,Professional,Urban,9,3,7,0,C-Section,Eclampsia,1
+17,Primary,Civil Servant,Rural,5,1,5,0,Assisted,PPH,0
+30,None,Civil Servant,Urban,3,2,9,0,SVD,None,0
+45,Secondary,Civil Servant,Urban,4,1,7,1,Assisted,None,1
+24,Primary,Trader,Rural,4,2,8,0,C-Section,Sepsis,0
+16,None,Civil Servant,Urban,5,0,7,0,Assisted,Eclampsia,0
+46,Secondary,None,Urban,9,5,5,0,C-Section,Others,0
+50,Secondary,Housewife,Urban,8,4,4,0,C-Section,None,0
+47,None,Trader,Urban,10,5,12,0,C-Section,None,0
+49,None,Trader,Rural,9,2,9,0,C-Section,Eclampsia,1
+48,Primary,Housewife,Urban,3,0,3,0,SVD,None,0
+39,None,None,Rural,1,1,3,0,SVD,None,0
+28,None,Housewife,Rural,1,1,8,0,C-Section,Eclampsia,0
+18,Tertiary,None,Urban,2,1,1,0,Assisted,None,1
+29,None,Trader,Urban,9,3,9,0,SVD,Others,0
+41,Primary,None,Rural,8,6,1,0,Assisted,Sepsis,1
+25,None,Civil Servant,Rural,9,5,5,0,Assisted,Sepsis,0
+35,Secondary,None,Urban,7,4,5,0,C-Section,Sepsis,1
+17,Tertiary,None,Urban,9,2,4,0,SVD,Eclampsia,1
+32,Secondary,Housewife,Urban,8,5,2,1,Assisted,PPH,1
+34,Primary,None,Rural,10,3,11,1,C-Section,PPH,1
+21,Tertiary,Housewife,Rural,2,0,12,0,C-Section,Sepsis,0
+22,Secondary,None,Urban,7,0,4,0,C-Section,Others,0
+35,Secondary,Trader,Urban,7,7,12,0,Assisted,None,0
+33,None,Trader,Urban,6,0,7,0,SVD,Others,0
+20,None,None,Rural,3,1,7,0,C-Section,Sepsis,0
+27,Secondary,Trader,Urban,5,3,5,0,Assisted,None,0
+41,None,Civil Servant,Rural,4,2,5,0,SVD,Eclampsia,1
+37,None,None,Urban,8,0,3,1,SVD,None,1
+18,Secondary,None,Urban,5,0,5,0,SVD,Eclampsia,0
+16,Tertiary,Trader,Urban,4,4,8,0,Assisted,Sepsis,0
+24,Primary,Professional,Urban,5,1,0,0,Assisted,Others,1
+44,Primary,Housewife,Rural,5,5,10,0,SVD,None,0
+39,Secondary,Professional,Urban,6,3,9,0,SVD,PPH,0
+44,Primary,Housewife,Urban,9,4,5,0,Assisted,PPH,1
+37,Tertiary,Civil Servant,Urban,9,4,12,1,C-Section,None,0
+32,Secondary,Trader,Rural,7,2,1,0,Assisted,Others,0
+29,None,Trader,Urban,7,4,9,0,Assisted,PPH,1
+23,Secondary,Trader,Rural,9,2,6,0,SVD,Others,0
+35,Primary,None,Urban,3,2,2,0,C-Section,Sepsis,0
+34,None,Civil Servant,Urban,4,0,2,1,Assisted,Others,1
+29,Secondary,Housewife,Rural,2,2,12,0,Assisted,Others,0
+38,Secondary,Professional,Rural,8,2,2,0,C-Section,None,0
+41,Secondary,Trader,Urban,2,0,7,0,C-Section,Eclampsia,0
+30,None,Professional,Urban,10,6,11,0,Assisted,Others,0
+48,Primary,None,Urban,8,7,0,0,SVD,Others,1
+17,None,None,Urban,4,2,7,0,C-Section,Eclampsia,1
+42,Tertiary,None,Urban,9,2,7,0,C-Section,None,0
+22,Secondary,None,Urban,7,6,5,0,SVD,Sepsis,0
+27,None,Housewife,Rural,6,5,10,0,SVD,None,1
+43,Tertiary,Housewife,Rural,9,9,2,0,C-Section,None,0
+36,Secondary,Trader,Urban,3,0,6,0,Assisted,Sepsis,0
+26,Primary,Trader,Urban,1,1,0,0,C-Section,Others,0
+46,Secondary,Trader,Rural,8,6,7,0,SVD,Others,1
+50,Secondary,Housewife,Urban,3,0,10,0,SVD,None,0
+34,Tertiary,Housewife,Urban,2,1,2,1,Assisted,Others,1
+50,Secondary,Professional,Rural,1,0,12,0,C-Section,Sepsis,0
+42,Primary,Civil Servant,Rural,3,0,11,0,C-Section,Others,1
+28,Secondary,None,Urban,2,2,11,0,Assisted,None,0
+33,None,None,Rural,5,4,9,0,C-Section,PPH,0
+46,None,Professional,Urban,10,3,11,0,SVD,None,1
+44,Primary,Trader,Rural,7,0,5,0,Assisted,PPH,1
+27,Tertiary,Civil Servant,Urban,5,2,8,0,SVD,None,0
+36,None,None,Urban,3,1,5,0,Assisted,Sepsis,0
+17,Secondary,Professional,Urban,8,8,5,0,C-Section,None,0
+34,Tertiary,None,Urban,4,4,10,0,C-Section,None,0
+32,Primary,Civil Servant,Rural,9,2,9,0,SVD,Others,1
+34,Tertiary,Housewife,Rural,7,1,7,0,C-Section,Sepsis,0
+34,Secondary,None,Rural,3,0,5,0,SVD,None,0
+16,None,None,Urban,4,2,7,0,Assisted,Eclampsia,0
+24,Primary,None,Urban,4,0,7,0,Assisted,None,1
+17,Primary,Civil Servant,Rural,1,0,8,0,Assisted,Eclampsia,1
+34,Secondary,Civil Servant,Urban,4,2,4,0,C-Section,None,0
+25,Tertiary,Housewife,Urban,10,8,8,1,Assisted,Eclampsia,1
+33,Secondary,Trader,Urban,5,4,5,0,SVD,PPH,1
+18,Primary,Professional,Urban,2,1,6,1,Assisted,Eclampsia,1
+27,Primary,Professional,Urban,2,2,7,1,Assisted,Sepsis,1
+29,Secondary,None,Rural,6,3,2,0,Assisted,Eclampsia,0
+35,None,Professional,Urban,2,1,1,0,C-Section,PPH,1
+37,Secondary,None,Urban,7,1,5,0,SVD,Eclampsia,0
+40,None,Trader,Urban,9,2,7,0,C-Section,PPH,0
+42,None,None,Rural,9,3,2,0,SVD,Others,1
+22,None,Civil Servant,Urban,8,2,4,0,SVD,Others,1
+39,Tertiary,Professional,Urban,2,0,2,0,Assisted,None,0
+24,None,None,Rural,7,7,3,0,C-Section,Eclampsia,1
+34,None,Civil Servant,Urban,10,0,9,0,C-Section,PPH,0
+18,Tertiary,None,Urban,1,1,1,0,SVD,PPH,1
+40,Tertiary,Professional,Rural,7,6,8,0,SVD,Sepsis,1
+50,None,Civil Servant,Rural,3,2,10,0,SVD,None,1
+46,None,Trader,Urban,3,3,7,0,Assisted,Others,0
+26,None,None,Rural,9,7,6,0,SVD,Sepsis,0
+46,Secondary,None,Rural,7,5,0,0,Assisted,Sepsis,1
+22,None,Housewife,Urban,9,4,7,0,Assisted,Others,1
+45,Primary,None,Rural,10,0,5,0,SVD,Sepsis,1
+45,Tertiary,Professional,Rural,5,2,2,1,Assisted,Others,1
+45,Secondary,None,Urban,5,5,9,1,SVD,PPH,1
+32,Tertiary,Trader,Rural,5,2,0,0,Assisted,PPH,0
+24,None,Civil Servant,Urban,5,5,3,0,Assisted,None,0
+20,Secondary,None,Urban,8,6,12,0,Assisted,Sepsis,0
+25,Secondary,None,Rural,1,1,12,0,SVD,PPH,0
+45,Tertiary,Professional,Urban,7,6,7,0,Assisted,Sepsis,1
+43,None,Civil Servant,Urban,2,2,10,0,C-Section,Others,0
+32,Tertiary,Civil Servant,Rural,2,1,10,0,C-Section,PPH,0
+27,Tertiary,Trader,Rural,9,0,10,0,SVD,Sepsis,1
+21,None,Civil Servant,Urban,5,2,3,0,SVD,Others,1
+28,Primary,Housewife,Urban,10,2,6,0,Assisted,Others,0
+26,Primary,Trader,Rural,5,3,10,0,Assisted,Sepsis,0
+32,None,Civil Servant,Rural,3,0,4,0,C-Section,Sepsis,1
+18,Tertiary,Civil Servant,Urban,8,1,7,0,SVD,Others,0
+46,Primary,Trader,Rural,4,4,10,1,Assisted,Eclampsia,1
+19,Primary,None,Rural,8,0,7,0,SVD,Sepsis,1
+36,None,None,Urban,9,7,7,0,Assisted,None,0
+15,None,Professional,Urban,10,8,5,0,C-Section,Sepsis,1
+20,Tertiary,None,Rural,2,1,12,0,Assisted,PPH,1
+17,None,Trader,Rural,7,1,10,0,C-Section,None,0
+43,Secondary,Trader,Urban,4,0,11,0,SVD,Sepsis,0
+49,Tertiary,Professional,Rural,1,0,5,0,C-Section,None,0
+48,None,None,Urban,10,3,1,0,C-Section,None,1
+17,Secondary,Trader,Urban,3,0,4,0,SVD,Sepsis,0
+19,Primary,Housewife,Rural,10,9,3,0,C-Section,Eclampsia,1
+40,Tertiary,Housewife,Urban,6,6,12,0,SVD,Others,1
+19,Primary,Civil Servant,Urban,7,2,11,0,SVD,Sepsis,1
+17,Secondary,Housewife,Rural,3,0,7,0,SVD,None,0
+33,None,Professional,Urban,4,1,10,0,C-Section,Sepsis,1
+26,Primary,None,Urban,8,1,10,0,C-Section,Eclampsia,0
+50,Secondary,Trader,Urban,9,1,9,0,Assisted,Others,1
+28,Tertiary,Housewife,Urban,2,0,10,0,C-Section,Sepsis,0
+17,Primary,Civil Servant,Rural,4,3,4,0,C-Section,None,1
+18,Secondary,Trader,Urban,8,8,1,0,Assisted,Sepsis,1
+35,None,Trader,Rural,4,0,5,0,SVD,Sepsis,0
+39,Secondary,Housewife,Rural,10,7,0,0,SVD,PPH,0
+44,Secondary,Professional,Rural,3,3,11,1,C-Section,PPH,1
+17,Primary,Civil Servant,Urban,2,1,7,0,C-Section,PPH,0
+25,Secondary,None,Urban,2,1,8,0,SVD,Others,0
+44,Tertiary,Housewife,Rural,4,1,5,0,SVD,Others,0
+15,None,Housewife,Urban,8,8,0,0,C-Section,Sepsis,1
+21,None,Professional,Urban,2,2,12,1,SVD,PPH,1
+30,Primary,Housewife,Rural,5,1,11,0,Assisted,Others,1
+44,None,Trader,Rural,3,2,10,0,Assisted,None,0
+19,None,Civil Servant,Urban,5,3,12,0,Assisted,Others,0
+28,Primary,None,Rural,1,1,0,1,C-Section,Others,1
+38,Secondary,None,Urban,9,3,2,0,SVD,Others,1
+45,Secondary,Trader,Rural,6,2,8,0,C-Section,None,1
+37,None,Professional,Urban,8,8,10,0,C-Section,Sepsis,0
+19,Secondary,Professional,Urban,2,1,2,0,SVD,None,1
+22,Secondary,Professional,Urban,4,4,10,1,Assisted,Others,0
+45,Tertiary,Professional,Rural,1,1,3,0,Assisted,Eclampsia,1
+36,Tertiary,Professional,Rural,8,4,9,1,SVD,Eclampsia,1
+38,Tertiary,Housewife,Urban,6,2,7,0,Assisted,PPH,0
+33,Secondary,Trader,Urban,3,1,1,1,Assisted,PPH,1
+38,Secondary,Trader,Urban,6,2,2,0,Assisted,PPH,1
+22,Primary,Professional,Rural,3,3,5,1,Assisted,Eclampsia,1
+33,Secondary,None,Rural,6,5,1,0,SVD,PPH,1
+22,Tertiary,Housewife,Rural,10,3,7,0,C-Section,None,0
+27,Secondary,Civil Servant,Urban,1,0,8,0,Assisted,None,0
+40,Secondary,Professional,Rural,10,9,8,0,Assisted,Eclampsia,1
+42,Tertiary,Professional,Rural,1,1,5,0,C-Section,Others,1
+43,None,Professional,Rural,3,3,11,0,SVD,Others,1
+24,Secondary,Civil Servant,Rural,9,5,1,0,Assisted,Sepsis,1
+41,Tertiary,Professional,Urban,9,7,11,0,SVD,PPH,1
+39,Tertiary,None,Rural,1,1,9,0,Assisted,Sepsis,1
+15,Secondary,Civil Servant,Rural,8,1,10,0,C-Section,Sepsis,1
+30,Primary,Housewife,Rural,8,1,9,0,Assisted,Sepsis,0
+31,None,Housewife,Rural,9,9,0,0,SVD,Others,1
+35,None,Trader,Rural,3,0,4,0,Assisted,Eclampsia,1
+33,Primary,None,Urban,3,0,9,0,Assisted,Eclampsia,0
+34,Tertiary,Civil Servant,Urban,9,9,5,0,SVD,PPH,0
+38,None,Professional,Rural,3,0,3,0,SVD,Others,1
+48,Primary,Professional,Rural,2,0,2,0,C-Section,Eclampsia,1
+38,Secondary,Professional,Rural,3,2,0,0,SVD,PPH,1
+24,Secondary,Civil Servant,Urban,4,1,1,0,SVD,None,1
+45,None,Housewife,Urban,2,0,12,0,Assisted,None,0
+31,Primary,Housewife,Rural,1,0,12,0,Assisted,PPH,1
+37,Primary,Housewife,Urban,5,4,5,0,Assisted,Others,1
+19,Primary,None,Urban,9,3,11,1,SVD,Others,1
+21,Secondary,None,Rural,6,5,9,0,SVD,Eclampsia,0
+42,Secondary,None,Urban,7,1,12,0,SVD,Sepsis,1
+23,None,Civil Servant,Rural,9,0,1,0,SVD,Sepsis,1
+34,None,Trader,Rural,5,3,3,0,C-Section,Eclampsia,1
+46,Primary,Professional,Rural,9,1,1,1,Assisted,Others,1
+25,Primary,Civil Servant,Urban,6,1,9,0,C-Section,None,0
+42,None,Civil Servant,Rural,7,5,7,0,C-Section,Sepsis,1
+24,None,Housewife,Urban,5,3,7,0,SVD,None,0
+18,Primary,Professional,Urban,3,3,9,0,SVD,Eclampsia,0
+21,Primary,None,Rural,8,3,4,0,C-Section,Others,1
+36,Primary,Housewife,Rural,2,1,7,0,C-Section,Sepsis,1
+17,Secondary,None,Rural,3,3,6,1,C-Section,None,0
+46,None,Professional,Urban,9,0,6,0,Assisted,Sepsis,0
+37,Tertiary,Civil Servant,Urban,1,0,2,0,C-Section,Others,1
+36,None,Housewife,Rural,6,2,6,0,Assisted,PPH,1
+34,Primary,Housewife,Rural,2,1,2,1,SVD,Sepsis,1
+42,None,Civil Servant,Urban,8,0,5,0,C-Section,Eclampsia,0
+46,Primary,Trader,Rural,8,8,12,0,C-Section,PPH,0
+38,None,Trader,Rural,2,2,3,0,SVD,Eclampsia,0
+40,Secondary,None,Urban,10,1,9,0,SVD,Others,0
+45,None,Trader,Rural,2,2,4,0,C-Section,Sepsis,1
+35,Secondary,Professional,Rural,5,4,8,0,Assisted,PPH,0
+48,Secondary,None,Rural,4,3,4,0,Assisted,Others,0
+42,Primary,None,Urban,6,3,2,0,Assisted,Eclampsia,0
+41,Tertiary,Housewife,Urban,7,4,4,0,C-Section,Others,1
+30,Primary,Trader,Urban,1,0,12,0,C-Section,Sepsis,0
+42,None,Housewife,Urban,3,2,2,1,Assisted,Others,1
+17,None,Housewife,Urban,2,1,9,0,SVD,Sepsis,0
+20,None,Trader,Urban,2,2,11,0,SVD,Others,0
+48,Tertiary,Professional,Urban,4,4,1,0,C-Section,Eclampsia,0
+39,Secondary,Professional,Urban,3,0,2,0,C-Section,Sepsis,1
+18,None,None,Rural,2,1,8,0,Assisted,PPH,0
+24,Tertiary,Professional,Rural,5,0,10,0,Assisted,None,0
+18,Secondary,Civil Servant,Rural,5,5,11,0,Assisted,None,0
+30,None,Professional,Urban,7,4,4,0,C-Section,PPH,0
+25,None,Civil Servant,Rural,1,1,1,0,C-Section,Sepsis,1
+36,None,Housewife,Urban,5,4,1,0,Assisted,Others,1
+44,Primary,Housewife,Urban,8,2,0,0,Assisted,Eclampsia,1
+20,Primary,Trader,Urban,9,2,9,0,C-Section,Sepsis,0
+23,Tertiary,Trader,Rural,5,1,1,0,SVD,Sepsis,0
+29,Primary,Housewife,Urban,2,1,3,0,SVD,None,0
+42,Tertiary,Trader,Urban,6,1,9,1,C-Section,Sepsis,1
+28,Secondary,Civil Servant,Rural,8,6,2,0,SVD,Others,1
+33,Secondary,Professional,Urban,7,2,0,0,C-Section,PPH,0
+30,Tertiary,None,Rural,2,0,7,1,Assisted,Sepsis,1
+39,None,None,Rural,2,0,8,1,SVD,Sepsis,1
+17,Primary,Civil Servant,Rural,5,3,10,0,Assisted,None,0
+31,Secondary,None,Rural,6,3,2,1,SVD,Eclampsia,1
+17,Secondary,Professional,Rural,6,3,4,0,C-Section,Others,0
+31,Tertiary,Professional,Urban,6,5,7,0,SVD,Others,0
+43,Primary,Trader,Urban,1,0,2,1,SVD,Sepsis,1
+46,Primary,Professional,Rural,9,7,7,0,Assisted,PPH,1
+20,Secondary,Civil Servant,Urban,3,2,9,0,Assisted,PPH,0
+15,Secondary,Professional,Urban,4,3,10,1,SVD,Eclampsia,1
+22,None,Civil Servant,Urban,6,1,0,1,C-Section,Eclampsia,1
+15,Tertiary,Housewife,Rural,6,5,11,0,Assisted,PPH,1
+18,Tertiary,Civil Servant,Urban,2,2,9,0,C-Section,Eclampsia,1
+40,Primary,Housewife,Urban,3,3,12,0,Assisted,PPH,1
+46,None,Civil Servant,Urban,6,5,1,0,Assisted,PPH,1
+39,None,Civil Servant,Rural,2,1,12,0,SVD,Sepsis,1
+20,Primary,None,Rural,8,3,10,0,SVD,Sepsis,0
+48,Primary,Civil Servant,Rural,7,1,12,0,SVD,PPH,0
+34,Secondary,None,Rural,5,4,0,0,SVD,Others,1
+42,None,Housewife,Rural,10,4,5,0,SVD,Others,1
+44,Secondary,Trader,Rural,1,0,6,0,C-Section,Eclampsia,0
+44,None,None,Rural,6,6,12,0,SVD,Others,1
+21,None,None,Urban,1,1,1,1,C-Section,Sepsis,1
+46,Tertiary,None,Rural,7,4,1,0,SVD,None,0
+27,Primary,Trader,Rural,3,1,6,0,Assisted,PPH,1
+44,Secondary,Professional,Rural,1,0,2,0,Assisted,Sepsis,0
+45,Primary,Professional,Urban,4,2,9,0,C-Section,None,0
+21,None,Professional,Rural,10,9,11,0,C-Section,None,0
+46,None,Trader,Urban,9,0,6,0,Assisted,None,0
+41,None,Housewife,Rural,10,10,5,0,C-Section,None,1
+27,None,Civil Servant,Rural,4,4,3,0,Assisted,Eclampsia,0
+44,Secondary,Civil Servant,Rural,7,5,12,0,SVD,Others,1
+20,None,Trader,Urban,4,1,9,0,C-Section,Sepsis,0
+28,Primary,Housewife,Rural,5,2,10,0,SVD,Eclampsia,0
+29,Primary,None,Urban,8,4,5,0,SVD,Others,0
+24,Primary,Housewife,Rural,8,1,1,0,Assisted,None,0
+17,Primary,Trader,Urban,4,2,2,0,Assisted,Sepsis,0
+46,Primary,Trader,Rural,6,6,2,0,C-Section,Sepsis,1
+15,Secondary,Professional,Rural,5,4,2,1,Assisted,Sepsis,1
+30,Secondary,None,Rural,4,1,12,0,C-Section,Sepsis,0
+48,Tertiary,Housewife,Rural,3,0,11,0,SVD,None,0
+40,Secondary,Professional,Urban,7,0,10,0,SVD,Others,1
+48,Tertiary,Professional,Rural,9,4,11,0,C-Section,None,0
+48,Secondary,Professional,Rural,4,4,9,0,Assisted,Sepsis,0
+40,Secondary,Civil Servant,Urban,1,1,6,0,Assisted,PPH,0
+49,Tertiary,Trader,Urban,9,8,4,0,Assisted,PPH,1
+49,Tertiary,Trader,Rural,7,1,11,1,C-Section,Others,1
+18,Primary,Professional,Rural,10,0,7,0,SVD,Others,0
+49,Secondary,Civil Servant,Rural,5,5,12,0,Assisted,PPH,0
+48,Secondary,Housewife,Rural,9,9,3,0,C-Section,Sepsis,1
+42,None,Housewife,Urban,1,1,2,0,C-Section,None,1
+48,None,None,Rural,5,4,7,0,C-Section,Sepsis,0
+41,Secondary,Trader,Urban,8,7,2,0,Assisted,Others,1
+28,None,Professional,Urban,3,2,1,0,C-Section,None,1
+33,Primary,None,Urban,2,1,4,0,C-Section,Eclampsia,0
+24,Secondary,None,Rural,1,1,4,0,Assisted,Sepsis,1
+50,Tertiary,Housewife,Urban,7,7,9,0,C-Section,Eclampsia,0
+45,Secondary,Trader,Rural,8,7,2,0,C-Section,None,0
+41,None,Trader,Rural,6,4,0,0,C-Section,Eclampsia,1
+25,Primary,None,Rural,9,1,10,0,SVD,Others,0
+18,Secondary,Professional,Urban,2,2,8,0,C-Section,PPH,1
+43,Primary,None,Rural,7,0,7,0,SVD,Eclampsia,1
+41,Primary,None,Rural,7,4,1,0,Assisted,PPH,1
+26,Tertiary,Housewife,Urban,5,3,10,1,SVD,None,0
+34,None,Housewife,Rural,3,3,5,0,SVD,None,0
+30,None,None,Rural,2,1,0,0,Assisted,Sepsis,1
+16,None,Trader,Urban,5,4,9,0,SVD,Others,0
+23,Tertiary,None,Rural,8,1,10,0,SVD,Eclampsia,0
+25,Secondary,None,Rural,9,7,0,1,Assisted,Eclampsia,1
+25,Primary,Housewife,Rural,5,4,4,0,C-Section,Eclampsia,0
+28,Tertiary,Housewife,Urban,9,9,1,0,C-Section,None,0
+50,Tertiary,Professional,Urban,10,8,12,0,Assisted,Eclampsia,0
+43,Tertiary,Trader,Rural,6,1,7,0,C-Section,None,0
+23,Primary,None,Rural,1,0,10,1,C-Section,Others,1
+19,Primary,Professional,Urban,6,6,6,0,C-Section,Sepsis,1
+15,Primary,Professional,Rural,4,3,0,0,SVD,Eclampsia,1
+37,Secondary,Housewife,Rural,4,1,7,0,SVD,Eclampsia,1
+28,Primary,Trader,Rural,2,1,9,0,SVD,Others,1
+26,Primary,None,Urban,2,0,4,0,SVD,Others,0
+32,Secondary,Housewife,Rural,9,7,0,0,Assisted,None,0
+35,None,Professional,Rural,2,2,8,0,C-Section,Others,0
+29,Primary,Civil Servant,Rural,9,7,5,0,C-Section,None,0
+16,Secondary,Professional,Urban,4,1,2,0,SVD,None,1
+42,Primary,None,Rural,5,1,1,0,C-Section,None,0
+48,Secondary,Housewife,Rural,2,2,7,0,SVD,None,0
+39,Tertiary,Housewife,Urban,1,1,0,0,Assisted,Sepsis,1
+18,Primary,Civil Servant,Rural,7,1,9,0,SVD,Others,0
+15,None,Professional,Rural,7,1,5,0,Assisted,None,0
+36,Secondary,Housewife,Urban,1,0,9,0,SVD,Others,1
+47,Tertiary,Civil Servant,Rural,8,7,2,0,SVD,None,1
+42,Tertiary,Civil Servant,Urban,3,3,4,0,C-Section,Eclampsia,0
+48,Secondary,Housewife,Urban,9,8,0,0,SVD,PPH,1
+27,Primary,Civil Servant,Urban,8,7,9,0,Assisted,Others,0
+34,None,Civil Servant,Urban,2,1,12,0,C-Section,PPH,0
+29,Secondary,Professional,Urban,4,3,11,0,C-Section,Sepsis,0
+26,Primary,Civil Servant,Urban,2,1,0,0,SVD,Eclampsia,1
+38,Primary,Housewife,Urban,4,2,2,0,C-Section,PPH,1
+50,Secondary,Trader,Urban,1,0,4,0,SVD,PPH,0
+22,Tertiary,Trader,Rural,8,3,5,0,Assisted,PPH,0
+42,Primary,Housewife,Urban,3,1,3,0,Assisted,Eclampsia,1
+42,Secondary,Housewife,Urban,9,4,12,0,SVD,Eclampsia,0
+47,None,Trader,Urban,8,1,2,0,Assisted,Others,1
+48,None,Trader,Rural,6,4,11,0,C-Section,Sepsis,1
+40,Primary,Trader,Urban,4,3,3,0,C-Section,Sepsis,0
+25,Tertiary,Civil Servant,Urban,3,0,4,0,C-Section,PPH,0
+44,Tertiary,Professional,Rural,8,6,6,0,C-Section,Eclampsia,1
+16,Secondary,Professional,Urban,5,5,1,0,SVD,Eclampsia,0
+47,Primary,Civil Servant,Urban,2,0,1,0,Assisted,PPH,1
+36,Tertiary,Civil Servant,Rural,4,4,2,0,Assisted,Others,0
+15,Tertiary,Civil Servant,Rural,7,6,9,0,SVD,Sepsis,0
+24,None,Trader,Urban,4,3,3,0,Assisted,Sepsis,1
+44,Tertiary,Housewife,Rural,4,3,12,0,C-Section,PPH,1
+50,Primary,Civil Servant,Urban,10,2,4,0,SVD,Sepsis,0
+37,Tertiary,Trader,Rural,7,6,12,0,Assisted,Eclampsia,1
+16,Primary,Trader,Urban,6,4,10,0,Assisted,Others,0
+39,Secondary,Professional,Urban,9,6,3,0,C-Section,Others,0
+34,Primary,Trader,Urban,9,2,0,0,Assisted,Sepsis,1
+27,Primary,Professional,Rural,4,1,4,0,SVD,Sepsis,1
+48,Primary,Trader,Rural,7,6,2,0,SVD,Others,1
+19,None,Trader,Urban,4,2,6,0,Assisted,Sepsis,1
+34,Secondary,None,Rural,5,1,0,0,C-Section,None,0
+30,Tertiary,None,Rural,8,7,9,0,C-Section,Sepsis,0
+34,None,None,Urban,7,3,2,0,Assisted,Sepsis,1
+26,Primary,Professional,Urban,4,1,4,0,Assisted,Eclampsia,0
+19,Secondary,Professional,Rural,9,1,5,0,Assisted,Eclampsia,1
+25,Tertiary,Trader,Urban,8,0,1,0,Assisted,Sepsis,1
+40,Secondary,Professional,Urban,1,1,1,0,SVD,Eclampsia,1
+44,None,Professional,Urban,2,2,10,0,C-Section,PPH,1
+32,Secondary,Trader,Urban,10,1,2,0,Assisted,Sepsis,1
+15,Tertiary,Trader,Rural,6,1,3,0,Assisted,Others,1
+18,Primary,Professional,Rural,8,0,9,1,SVD,PPH,1
+30,Secondary,Housewife,Urban,7,0,0,0,SVD,None,0
+21,Secondary,Trader,Urban,7,1,5,0,Assisted,PPH,0
+49,None,Professional,Urban,4,1,1,0,SVD,None,1
+35,Primary,Professional,Urban,8,3,1,0,C-Section,Others,1
+19,Secondary,Professional,Rural,10,7,1,0,Assisted,PPH,1
+21,Tertiary,Professional,Urban,6,1,10,0,Assisted,Eclampsia,0
+45,Primary,Civil Servant,Urban,10,9,7,0,Assisted,PPH,0
+15,Secondary,Housewife,Urban,5,1,11,0,SVD,Others,1
+23,Tertiary,Professional,Rural,4,1,6,0,SVD,PPH,0
+43,Tertiary,Trader,Rural,6,5,12,0,Assisted,Sepsis,0
+33,Primary,Trader,Rural,6,1,3,0,Assisted,PPH,0
+29,None,None,Rural,3,3,10,1,SVD,PPH,1
+24,Secondary,Trader,Urban,3,1,3,0,C-Section,Sepsis,1
+27,Secondary,Professional,Urban,10,3,4,0,C-Section,PPH,0
+45,Primary,Civil Servant,Rural,7,2,7,0,Assisted,Others,0
+24,None,Housewife,Rural,7,1,12,0,C-Section,Others,0
+50,Secondary,Civil Servant,Rural,8,4,7,0,Assisted,Others,1
+36,Secondary,Professional,Urban,3,1,0,1,C-Section,Sepsis,1
+40,Tertiary,Professional,Rural,5,5,9,0,SVD,Sepsis,0
+25,Secondary,Professional,Rural,6,4,11,0,Assisted,Eclampsia,0
+39,None,Trader,Urban,8,0,5,0,Assisted,None,0
+24,Tertiary,None,Rural,3,2,3,0,Assisted,PPH,1
+20,None,Professional,Urban,9,3,6,1,C-Section,Eclampsia,1
+49,None,None,Rural,7,1,1,0,C-Section,PPH,1
+28,None,Civil Servant,Urban,3,3,0,1,Assisted,Sepsis,1
+42,Secondary,Trader,Rural,3,1,3,0,Assisted,None,1
+28,Secondary,Trader,Urban,3,1,4,0,C-Section,Sepsis,0
+21,Secondary,Housewife,Rural,2,1,1,0,C-Section,None,0
+45,None,Housewife,Urban,1,1,12,0,Assisted,Others,0
+17,Primary,Trader,Urban,7,4,7,0,C-Section,Others,0
+38,Tertiary,Civil Servant,Urban,6,5,6,0,SVD,Eclampsia,0
+21,Primary,Professional,Rural,3,0,9,1,Assisted,PPH,1
+45,None,Trader,Urban,6,0,10,0,SVD,Eclampsia,0
+29,None,Professional,Urban,6,3,7,0,Assisted,None,0
+33,Secondary,Trader,Urban,3,3,12,1,SVD,Sepsis,0
+45,Secondary,Trader,Urban,3,0,1,0,Assisted,None,1
+35,None,Civil Servant,Urban,5,5,7,0,Assisted,None,0
+49,None,Housewife,Rural,4,4,12,0,SVD,Eclampsia,1
+39,None,Trader,Urban,5,0,4,0,C-Section,Others,0
+22,Tertiary,Trader,Rural,7,0,4,0,C-Section,Sepsis,0
+38,Secondary,None,Urban,2,1,0,0,C-Section,Eclampsia,1
+33,Secondary,Professional,Rural,3,2,2,0,Assisted,None,0
+34,Primary,Civil Servant,Rural,4,3,4,0,C-Section,None,0
+36,Secondary,Trader,Urban,1,0,7,0,C-Section,PPH,0
+50,None,Civil Servant,Rural,8,5,12,0,SVD,Others,1
+33,Secondary,None,Rural,2,0,5,0,Assisted,None,0
+34,None,Trader,Urban,8,7,4,0,SVD,PPH,0
+27,Primary,Civil Servant,Urban,3,3,6,0,SVD,None,0
+45,Secondary,Housewife,Urban,9,5,9,0,SVD,Sepsis,1
+22,Secondary,Professional,Rural,5,5,9,0,Assisted,Sepsis,0
+20,None,Professional,Rural,8,5,0,0,SVD,Sepsis,1
+47,Secondary,Housewife,Rural,5,5,11,0,C-Section,Sepsis,0
+42,Tertiary,None,Urban,2,1,1,0,Assisted,PPH,1
+16,None,None,Rural,2,2,9,0,Assisted,None,0
+28,Primary,Trader,Urban,1,1,12,0,SVD,PPH,0
+25,Primary,None,Rural,1,0,1,0,C-Section,Others,1
+15,Secondary,Civil Servant,Urban,9,4,10,0,SVD,Others,0
+35,Tertiary,None,Urban,2,2,0,0,SVD,PPH,1
+28,Secondary,None,Urban,10,5,4,1,SVD,Others,1
+39,Secondary,Professional,Rural,2,1,10,0,Assisted,PPH,0
+19,Tertiary,Trader,Rural,10,10,10,0,Assisted,PPH,1
+24,Tertiary,Professional,Rural,1,0,1,0,Assisted,None,0
+41,Primary,Civil Servant,Urban,6,2,12,0,SVD,Eclampsia,1
+39,Secondary,Professional,Urban,2,0,8,0,C-Section,Others,0
+46,Primary,None,Rural,10,4,8,0,SVD,None,0
+39,Secondary,Civil Servant,Rural,8,2,4,0,Assisted,PPH,1
+32,Primary,Civil Servant,Urban,10,6,11,0,C-Section,Eclampsia,0
+47,Tertiary,Civil Servant,Rural,9,3,4,0,SVD,Eclampsia,1
+35,Primary,Housewife,Urban,4,0,2,0,SVD,Eclampsia,0
+46,Primary,Professional,Urban,8,7,8,0,Assisted,Others,0
+40,Primary,None,Urban,1,1,11,0,C-Section,PPH,0
+48,Primary,None,Rural,3,1,2,0,Assisted,Eclampsia,0
+42,None,Professional,Urban,6,0,5,0,SVD,Others,0
+22,Tertiary,Civil Servant,Rural,5,2,3,1,SVD,Eclampsia,1
+47,Primary,Professional,Rural,1,1,0,0,C-Section,Eclampsia,1
+15,Tertiary,Trader,Rural,6,0,1,0,SVD,None,0
+24,None,Housewife,Rural,1,0,12,0,SVD,Sepsis,1
+34,Tertiary,Professional,Urban,9,4,1,0,Assisted,Sepsis,1
+37,None,Housewife,Rural,4,0,3,0,SVD,Sepsis,1
+36,Primary,Trader,Urban,8,4,1,0,Assisted,Sepsis,0
+23,Tertiary,Professional,Rural,3,0,1,0,SVD,PPH,1
+15,Secondary,Housewife,Rural,7,0,6,0,C-Section,Sepsis,1
+42,Secondary,None,Urban,9,2,3,0,SVD,Eclampsia,0
+30,None,Trader,Rural,2,2,11,0,SVD,PPH,0
+24,Secondary,Housewife,Urban,7,0,4,0,SVD,Sepsis,1
+27,Primary,Housewife,Rural,7,4,11,0,SVD,PPH,0
+45,Primary,None,Rural,1,1,1,0,C-Section,Eclampsia,1
+30,Tertiary,Housewife,Urban,1,0,0,0,C-Section,PPH,1
+32,Primary,Professional,Urban,5,3,5,0,SVD,None,0
+50,Secondary,Civil Servant,Rural,6,5,12,0,Assisted,Eclampsia,1
+32,Secondary,None,Rural,2,0,2,0,Assisted,None,1
+27,Secondary,Professional,Urban,2,2,9,0,Assisted,Sepsis,0
+27,Secondary,Housewife,Urban,4,3,8,0,Assisted,Eclampsia,0
+43,Primary,Professional,Urban,8,6,8,0,Assisted,None,0
+32,Secondary,Civil Servant,Urban,10,0,12,0,SVD,Sepsis,0
+49,Primary,Trader,Rural,9,6,8,0,C-Section,Others,1
+26,Primary,Trader,Urban,10,0,12,0,Assisted,Others,0
+29,Tertiary,Civil Servant,Urban,3,1,0,0,C-Section,None,0
+32,Secondary,Civil Servant,Urban,4,1,8,1,Assisted,Others,0
+35,Primary,None,Rural,3,3,9,0,SVD,None,0
+29,Tertiary,Trader,Rural,1,0,11,0,C-Section,Eclampsia,0
+50,Secondary,Professional,Urban,6,2,3,0,C-Section,PPH,1
+42,Tertiary,Trader,Rural,2,1,2,0,SVD,PPH,1
+26,Tertiary,Housewife,Rural,3,1,6,0,SVD,None,0
+42,Secondary,Professional,Rural,2,2,8,0,Assisted,None,0
+16,Primary,Housewife,Urban,3,1,12,0,Assisted,Others,1
+15,Primary,None,Rural,2,0,2,0,Assisted,Sepsis,1
+34,Tertiary,Professional,Urban,4,0,8,0,Assisted,Others,0
+17,Primary,None,Rural,2,2,6,0,SVD,PPH,1
+24,Tertiary,Civil Servant,Urban,7,1,7,0,SVD,None,0
+33,Tertiary,Housewife,Rural,2,1,1,0,Assisted,PPH,1
+48,Tertiary,None,Urban,7,2,10,0,Assisted,Eclampsia,0
+21,Tertiary,Professional,Rural,5,5,12,0,SVD,PPH,0
+39,None,Professional,Urban,2,2,6,0,C-Section,PPH,1
+23,Secondary,Professional,Rural,6,3,6,0,C-Section,Others,0
+36,Secondary,Trader,Rural,7,7,8,0,Assisted,Others,0
+39,Primary,None,Rural,9,9,12,0,Assisted,PPH,0
+30,Tertiary,Housewife,Urban,1,1,8,0,SVD,None,0
+37,Tertiary,Trader,Rural,8,2,8,0,C-Section,PPH,1
+29,Primary,Trader,Urban,3,3,11,1,C-Section,None,0
+19,None,None,Urban,1,0,5,0,SVD,None,0
+41,Secondary,Trader,Rural,3,2,7,0,C-Section,Sepsis,0
+15,Tertiary,Housewife,Urban,1,0,9,0,Assisted,PPH,1
+42,None,None,Rural,10,8,4,0,C-Section,PPH,1
+20,None,Trader,Urban,7,0,3,0,Assisted,Others,1
+19,None,Professional,Rural,7,6,2,1,Assisted,Sepsis,1
+21,Primary,Housewife,Rural,10,5,0,0,SVD,Others,1
+28,Primary,Civil Servant,Urban,9,3,10,0,SVD,Eclampsia,1
+17,None,Housewife,Urban,6,0,4,1,C-Section,Sepsis,1
+35,None,Civil Servant,Urban,2,1,6,0,Assisted,None,0
+24,Primary,None,Rural,8,0,4,1,SVD,None,0
+29,Secondary,Trader,Urban,9,8,11,0,Assisted,Eclampsia,0
+23,Tertiary,Civil Servant,Rural,10,6,0,0,Assisted,Sepsis,1
+19,Secondary,None,Rural,2,0,2,0,C-Section,Others,1
+20,None,Housewife,Rural,6,1,4,1,Assisted,Eclampsia,1
+19,Secondary,Professional,Rural,8,4,12,0,Assisted,PPH,0
+46,Primary,Civil Servant,Rural,7,6,9,0,SVD,Sepsis,1
+35,Tertiary,Housewife,Rural,9,7,4,0,Assisted,None,0
+18,Secondary,None,Urban,3,0,4,0,Assisted,Sepsis,0
+29,None,Professional,Urban,6,3,7,0,C-Section,None,0
+21,None,Professional,Urban,7,5,1,0,Assisted,Sepsis,1
+45,Primary,Civil Servant,Rural,1,0,7,0,C-Section,Others,1
+39,Primary,Civil Servant,Rural,8,3,0,0,SVD,Sepsis,1
+26,Primary,Trader,Urban,5,3,1,0,Assisted,Sepsis,0
+48,Secondary,Civil Servant,Urban,1,0,6,0,C-Section,PPH,1
+41,None,Professional,Urban,7,5,11,0,SVD,Others,0
+27,Primary,None,Urban,6,5,11,0,Assisted,Eclampsia,1
+44,Secondary,Professional,Rural,2,2,6,0,Assisted,None,0
+23,None,None,Urban,1,0,11,0,C-Section,Others,0
+39,Secondary,Civil Servant,Urban,4,4,0,0,C-Section,None,0
+34,Primary,Professional,Rural,7,6,5,0,Assisted,Sepsis,0
+36,Primary,Trader,Rural,7,5,2,0,SVD,Others,1
+33,None,Civil Servant,Urban,2,0,1,0,Assisted,Sepsis,1
+49,Primary,Professional,Urban,5,3,3,0,C-Section,Others,1
+27,None,Housewife,Rural,8,6,10,0,Assisted,Sepsis,1
+38,Secondary,None,Rural,5,5,4,0,C-Section,PPH,1
+41,Primary,Housewife,Urban,3,2,8,0,Assisted,Eclampsia,0
+42,Secondary,None,Rural,4,4,10,0,SVD,Others,1
+39,Secondary,Professional,Rural,9,2,6,0,Assisted,PPH,0
+40,Tertiary,None,Urban,6,1,1,1,SVD,Others,1
+49,Primary,None,Rural,1,0,7,0,C-Section,PPH,1
+29,Tertiary,Trader,Urban,7,4,10,0,SVD,None,0
+21,Primary,Professional,Urban,2,0,4,0,SVD,None,0
+38,Secondary,Professional,Urban,8,0,6,0,SVD,Sepsis,0
+35,None,Trader,Urban,5,0,2,0,Assisted,Others,0
+22,Tertiary,Civil Servant,Rural,10,9,8,1,SVD,PPH,1
+49,Primary,None,Urban,4,2,1,0,SVD,Eclampsia,1
+20,Secondary,Civil Servant,Rural,8,3,1,0,Assisted,Eclampsia,1
+46,None,None,Rural,4,2,2,1,C-Section,None,1
+34,Secondary,Trader,Rural,7,7,6,0,C-Section,Eclampsia,0
+39,None,Trader,Rural,6,5,1,0,SVD,Others,1
+41,Tertiary,None,Rural,7,0,1,1,C-Section,PPH,1
+19,Secondary,Civil Servant,Rural,3,2,1,0,Assisted,Eclampsia,1
+35,Secondary,None,Urban,7,4,9,0,SVD,None,0
+19,None,Professional,Rural,6,1,3,1,C-Section,None,0
+41,Primary,Housewife,Rural,3,2,9,0,Assisted,None,0
+15,None,Civil Servant,Urban,7,0,8,0,SVD,Eclampsia,0
+19,None,Housewife,Rural,5,2,5,0,C-Section,None,0
+35,None,None,Urban,7,4,11,0,C-Section,None,0
+21,Primary,Trader,Urban,1,0,1,0,Assisted,Sepsis,1
+20,Secondary,Civil Servant,Urban,1,1,12,0,C-Section,None,0
+39,Tertiary,Trader,Urban,10,7,1,0,Assisted,Sepsis,1
+22,Secondary,None,Rural,8,4,5,0,C-Section,PPH,1
+33,Primary,Civil Servant,Urban,4,0,1,0,SVD,PPH,1
+28,None,Professional,Urban,8,1,5,0,Assisted,Others,0
+35,Tertiary,Professional,Urban,9,1,2,0,C-Section,Sepsis,0
+47,Secondary,Professional,Urban,2,1,6,1,Assisted,None,1
+21,Primary,Trader,Urban,8,2,4,1,C-Section,Eclampsia,1
+50,Primary,Civil Servant,Rural,4,1,6,0,Assisted,Eclampsia,1
+32,Tertiary,Housewife,Urban,7,6,3,0,C-Section,PPH,0
+48,None,None,Rural,2,2,0,0,SVD,PPH,1
+17,Tertiary,Trader,Urban,9,1,4,0,Assisted,Sepsis,0
