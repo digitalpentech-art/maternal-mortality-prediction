@@ -215,5 +215,41 @@ async function downloadReport() {
     }
 }
 
+let isLogin = true;
+
+function toggleAuthMode() {
+    isLogin = !isLogin;
+    document.getElementById('authTitle').innerText = isLogin ? 'Login' : 'Register';
+}
+
+document.getElementById('authForm').addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const username = document.getElementById('username').value;
+    const password = document.getElementById('password').value;
+    const endpoint = isLogin ? '/auth/login' : '/auth/register';
+    
+    const response = await fetch(endpoint, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ username, password })
+    });
+    
+    if (response.ok) {
+        alert("Success!");
+        $('#authModal').modal('hide');
+        document.getElementById('authRequired').classList.remove('d-none');
+    } else {
+        alert("Error!");
+    }
+});
+
+async function logout() {
+    await fetch('/auth/logout', { method: 'POST' });
+    location.reload();
+}
+...
 // Initialize Home
-window.onload = () => showPage('home');
+window.onload = () => {
+    showPage('home');
+    new bootstrap.Modal(document.getElementById('authModal')).show();
+};
