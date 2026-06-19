@@ -73,7 +73,7 @@ class MLPredictionService:
         }
 
 class XAIService:
-    def __init__(self, model_dir=os.path.expanduser("~/maternal-mortality-prediction/models")):
+    def __init__(self, model_dir="models"):
         self.model_dir = model_dir
         self.rf_model = None
         self.preprocessor = None

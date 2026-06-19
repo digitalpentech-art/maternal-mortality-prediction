@@ -81,7 +81,7 @@ Model Comparison:
 ", comparison_df)
     
     # 8. Save Artifacts
-    model_dir = os.path.expanduser("~/maternal-mortality-prediction/models")
+    model_dir = "models"
     os.makedirs(model_dir, exist_ok=True)
     
     joblib.dump(rf, os.path.join(model_dir, "random_forest.pkl"))

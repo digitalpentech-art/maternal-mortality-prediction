@@ -52,7 +52,7 @@ def generate_synthetic_maternal_data(num_samples=1000):
     return data
 
 if __name__ == "__main__":
-    output_dir = os.path.expanduser("~/maternal-mortality-prediction/data/raw")
+    output_dir = "data/raw"
     os.makedirs(output_dir, exist_ok=True)
     
     columns = [

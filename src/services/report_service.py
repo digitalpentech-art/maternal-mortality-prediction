@@ -3,7 +3,7 @@ import datetime
 import os
 
 class ReportService:
-    def __init__(self, output_dir=os.path.expanduser("~/maternal-mortality-prediction/reports")):
+    def __init__(self, output_dir="reports"):
         self.output_dir = output_dir
         os.makedirs(self.output_dir, exist_ok=True)
 

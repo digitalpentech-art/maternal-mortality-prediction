@@ -90,7 +90,7 @@ class MaternalDataPreprocessor:
 if __name__ == "__main__":
     # Local test with synthetic data
     try:
-        data_path = os.path.expanduser("~/maternal-mortality-prediction/data/raw/synthetic_masha_data.csv")
+        data_path = "data/raw/synthetic_masha_data.csv"
         df = pd.read_csv(data_path)
         
         preprocessor = MaternalDataPreprocessor()
