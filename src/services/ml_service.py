@@ -17,12 +17,16 @@ class MLPredictionService:
         """
         Loads the trained models and preprocessor.
         """
+        # Get the absolute path to the directory where this script resides
+        base_path = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+        model_path = os.path.join(base_path, self.model_dir)
+        
         try:
-            self.rf_model = joblib.load(os.path.join(self.model_dir, "random_forest.pkl"))
-            self.ann_model = joblib.load(os.path.join(self.model_dir, "ann_model.pkl"))
-            self.preprocessor = joblib.load(os.path.join(self.model_dir, "preprocessor.pkl"))
+            self.rf_model = joblib.load(os.path.join(model_path, "random_forest.pkl"))
+            self.ann_model = joblib.load(os.path.join(model_path, "ann_model.pkl"))
+            self.preprocessor = joblib.load(os.path.join(model_path, "preprocessor.pkl"))
         except Exception as e:
-            print(f"Warning: Could not load model artifacts: {e}. Using mock models for development.")
+            print(f"Warning: Could not load model artifacts from {model_path}: {e}. Using mock models for development.")
             self._setup_mocks()
 
 
@@ -82,9 +86,11 @@ class XAIService:
         self._load_artifacts()
 
     def _load_artifacts(self):
+        base_path = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+        model_path = os.path.join(base_path, self.model_dir)
         try:
-            self.rf_model = joblib.load(os.path.join(self.model_dir, "random_forest.pkl"))
-            self.preprocessor = joblib.load(os.path.join(self.model_dir, "preprocessor.pkl"))
+            self.rf_model = joblib.load(os.path.join(model_path, "random_forest.pkl"))
+            self.preprocessor = joblib.load(os.path.join(model_path, "preprocessor.pkl"))
         except Exception:
             self.rf_model = None # SHAP requires real models
 
