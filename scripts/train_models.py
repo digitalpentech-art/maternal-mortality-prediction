@@ -27,8 +27,7 @@ def train_and_evaluate():
     )
     
     # 4. Random Forest Implementation
-    print("
---- Training Random Forest ---")
+    print("\n--- Training Random Forest ---")
     rf = RandomForestClassifier(
         n_estimators=500,
         criterion='gini',
@@ -42,8 +41,7 @@ def train_and_evaluate():
     rf_prob = rf.predict_proba(X_test)[:, 1]
     
     # 5. ANN Implementation (MLP)
-    print("
---- Training Artificial Neural Network ---")
+    print("\n--- Training Artificial Neural Network ---")
     ann = MLPClassifier(
         hidden_layer_sizes=(16,),
         activation='relu',
@@ -76,9 +74,7 @@ def train_and_evaluate():
     
     # 7. Comparison Table
     comparison_df = pd.DataFrame([rf_metrics, ann_metrics])
-    print("
-Model Comparison:
-", comparison_df)
+    print("\nModel Comparison:\n", comparison_df)
     
     # 8. Save Artifacts
     model_dir = "models"
@@ -88,8 +84,7 @@ Model Comparison:
     joblib.dump(ann, os.path.join(model_dir, "ann_model.pkl")) # Saving as pkl for simplicity in Flask
     preprocessor.save_artifacts(model_dir)
     
-    print(f"
-All artifacts saved to {model_dir}")
+    print(f"\nAll artifacts saved to {model_dir}")
     return comparison_df
 
 if __name__ == "__main__":
