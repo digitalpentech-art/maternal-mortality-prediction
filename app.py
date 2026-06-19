@@ -1,4 +1,4 @@
-from flask import Flask
+from flask import Flask, render_template
 from flask_cors import CORS
 from src.routes.api import api_bp
 import os
@@ -12,7 +12,7 @@ def create_app():
     
     @app.route('/')
     def index():
-        return "Maternal Mortality Prediction API is running. Access /api/predict for predictions."
+        return render_template('index.html')
     
     return app
 
