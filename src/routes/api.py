@@ -1,6 +1,7 @@
 from flask import Blueprint, request, jsonify, send_file
 from src.services.ml_service import MLPredictionService, XAIService
 from src.services.report_service import ReportService
+from src.models.models import db, Patient, Prediction
 import os
 
 api_bp = Blueprint('api', __name__)
@@ -20,6 +21,33 @@ def predict():
         # Get predictions from RF and ANN
         predictions = ml_service.predict(data)
         
+        # Save to database
+        new_patient = Patient(
+            age=data.get('Maternal Age'),
+            education=data.get('Education'),
+            occupation=data.get('Occupation'),
+            location=data.get('Location'),
+            gravida=data.get('Gravida'),
+            parity=data.get('Parity'),
+            ancv=data.get('ANCV'),
+            preec=data.get('PreEC'),
+            delivery_mode=data.get('Delivery Mode'),
+            complications=data.get('Complications')
+        )
+        db.session.add(new_patient)
+        db.session.commit()
+        
+        for model_name, res in predictions.items():
+            if model_name in ['rf', 'ann']:
+                new_prediction = Prediction(
+                    patient_id=new_patient.id,
+                    model_name=model_name,
+                    risk_prediction=res['prediction'],
+                    risk_probability=res['probability']
+                )
+                db.session.add(new_prediction)
+        db.session.commit()
+        
         # Get SHAP explanations
         explanation = xai_service.explain_prediction(data)
         
@@ -29,6 +57,7 @@ def predict():
             "explanation": explanation
         })
     except Exception as e:
+        db.session.rollback()
         return jsonify({"error": str(e)}), 500
 
 @api_bp.route('/report', methods=['POST'])
