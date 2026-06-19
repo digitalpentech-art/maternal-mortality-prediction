@@ -2,6 +2,8 @@ from flask import Blueprint, request, jsonify, send_file
 from src.services.ml_service import MLPredictionService, XAIService
 from src.services.report_service import ReportService
 from src.models.models import db, Patient, Prediction
+from src.models.schemas import PatientDataSchema
+from pydantic import ValidationError
 import os
 
 api_bp = Blueprint('api', __name__)
@@ -14,25 +16,25 @@ report_service = ReportService()
 @api_bp.route('/predict', methods=['POST'])
 def predict():
     try:
+        # Validate input data
         data = request.json
-        if not data:
-            return jsonify({"error": "No input data provided"}), 400
+        validated_data = PatientDataSchema(**data)
         
         # Get predictions from RF and ANN
-        predictions = ml_service.predict(data)
+        predictions = ml_service.predict(validated_data.model_dump())
         
         # Save to database
         new_patient = Patient(
-            age=data.get('Maternal Age'),
-            education=data.get('Education'),
-            occupation=data.get('Occupation'),
-            location=data.get('Location'),
-            gravida=data.get('Gravida'),
-            parity=data.get('Parity'),
-            ancv=data.get('ANCV'),
-            preec=data.get('PreEC'),
-            delivery_mode=data.get('Delivery Mode'),
-            complications=data.get('Complications')
+            age=validated_data.Age,
+            education=str(validated_data.Education),
+            occupation=str(validated_data.Occupation),
+            location=str(validated_data.Location),
+            gravida=validated_data.Gravida,
+            parity=validated_data.Para,
+            ancv=validated_data.ANCV,
+            preec=validated_data.PreEC,
+            delivery_mode=str(validated_data.Delivery_Mode),
+            complications=str(validated_data.Complications)
         )
         db.session.add(new_patient)
         db.session.commit()
@@ -49,13 +51,15 @@ def predict():
         db.session.commit()
         
         # Get SHAP explanations
-        explanation = xai_service.explain_prediction(data)
+        explanation = xai_service.explain_prediction(validated_data.model_dump())
         
         return jsonify({
             "status": "success",
             "predictions": predictions,
             "explanation": explanation
         })
+    except ValidationError as e:
+        return jsonify({"error": e.errors()}), 400
     except Exception as e:
         db.session.rollback()
         return jsonify({"error": str(e)}), 500
