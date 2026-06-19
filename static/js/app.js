@@ -16,19 +16,25 @@ function showPage(pageId) {
 }
 
 async function loadHomeCharts() {
-    const data = [
-        { labels: ['Survival', 'Death'], values: [820, 180], type: 'pie', colors: ['#27ae60', '#e74c3c'] }
-    ];
-    
-    Plotly.newPlot('home-pie-chart', [{
-        values: data[0].values,
-        labels: data[0].labels,
-        type: 'pie',
-        marker: { colors: data[0].colors }
-    }], {
-        margin: { t: 0, b: 0, l: 0, r: 0 },
-        legend: { orientation: 'h', y: -0.1 }
-    });
+    try {
+        // In a production app, you'd add a /api/stats endpoint to get counts.
+        // For now, let's fetch total counts from a hypothetical stats endpoint
+        // or just calculate from the current database.
+        // As we don't have that yet, I'll add a placeholder structure that can be easily updated.
+        const stats = { survival: 820, death: 180 }; // This would be fetched from API
+        
+        Plotly.newPlot('home-pie-chart', [{
+            values: [stats.survival, stats.death],
+            labels: ['Survival', 'Death'],
+            type: 'pie',
+            marker: { colors: ['#27ae60', '#e74c3c'] }
+        }], {
+            margin: { t: 0, b: 0, l: 0, r: 0 },
+            legend: { orientation: 'h', y: -0.1 }
+        });
+    } catch (e) {
+        console.error("Error loading home charts", e);
+    }
 }
 
 async function loadComparison() {
