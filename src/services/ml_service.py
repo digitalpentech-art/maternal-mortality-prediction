@@ -41,7 +41,9 @@ class MLPredictionService:
         self.preprocessor = MaternalDataPreprocessor()
         # Mock a fitted column transformer
         from sklearn.compose import ColumnTransformer
-        self.preprocessor.column_transformer = ColumnTransformer() 
+        from sklearn.preprocessing import StandardScaler
+        # Provide minimal transformer configuration: a pass-through transformer
+        self.preprocessor.column_transformer = ColumnTransformer(transformers=[('passthrough', 'passthrough', [])])
         # In real scenario, the preprocessor would be properly fitted.
 
     def predict(self, patient_data):
