@@ -51,7 +51,26 @@ document.addEventListener('DOMContentLoaded', () => {
         form.addEventListener('submit', async (e) => {
             e.preventDefault();
             console.log("Predicting...");
-            // ... (rest of prediction logic)
+            const formData = new FormData(e.target);
+            const data = Object.fromEntries(formData.entries());
+            
+            try {
+                const response = await fetch(`${API_BASE}/predict`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(data)
+                });
+                const result = await response.json();
+                
+                if (result.status === 'success') {
+                    renderPrediction(result);
+                } else {
+                    alert("Error: " + result.error);
+                }
+            } catch (e) {
+                console.error("Prediction failed:", e);
+                alert("API Error: Prediction failed.");
+            }
         });
     }
 });
