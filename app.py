@@ -2,6 +2,7 @@ from flask import Flask, render_template
 from flask_cors import CORS
 from flask_login import LoginManager
 from src.routes.api import api_bp
+from src.routes.auth import auth_bp
 from src.models.models import db, User
 import os
 
@@ -28,6 +29,7 @@ def create_app():
     
     # Register Blueprints
     app.register_blueprint(api_bp, url_prefix='/api')
+    app.register_blueprint(auth_bp, url_prefix='/auth')
     
     @app.route('/')
     def index():
