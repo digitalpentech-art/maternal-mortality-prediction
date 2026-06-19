@@ -77,7 +77,8 @@ def train_and_evaluate():
     print("\nModel Comparison:\n", comparison_df)
     
     # 8. Save Artifacts
-    model_dir = "models"
+    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    model_dir = os.path.join(base_dir, "models")
     os.makedirs(model_dir, exist_ok=True)
     
     joblib.dump(rf, os.path.join(model_dir, "random_forest.pkl"))
