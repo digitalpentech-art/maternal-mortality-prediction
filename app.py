@@ -16,7 +16,9 @@ def create_app():
     
     return app
 
+# Fallback for Gunicorn import: 'app:app'
+app = create_app()
+
 if __name__ == "__main__":
-    app = create_app()
     # Use 0.0.0.0 to make it accessible on Render/Network
     app.run(host='0.0.0.0', port=5000, debug=True)

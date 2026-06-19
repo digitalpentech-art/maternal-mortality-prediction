@@ -7,4 +7,4 @@ services:
         value: 3.11
     plan: free
     buildCommand: pip install -r requirements.txt && python scripts/train_models.py
-    startCommand: gunicorn "app:create_app()"
+    startCommand: gunicorn app:app
