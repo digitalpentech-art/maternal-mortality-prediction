@@ -216,6 +216,12 @@ async function downloadReport() {
 }
 
 let isLogin = true;
+let authModal; // Global reference
+
+document.addEventListener('DOMContentLoaded', () => {
+    authModal = new bootstrap.Modal(document.getElementById('authModal'));
+    authModal.show();
+});
 
 function toggleAuthMode() {
     isLogin = !isLogin;
@@ -236,7 +242,7 @@ document.getElementById('authForm').addEventListener('submit', async (e) => {
     
     if (response.ok) {
         alert("Success!");
-        $('#authModal').modal('hide');
+        authModal.hide(); // Use native API
         document.getElementById('authRequired').classList.remove('d-none');
     } else {
         alert("Error!");
@@ -251,5 +257,4 @@ async function logout() {
 // Initialize Home
 window.onload = () => {
     showPage('home');
-    new bootstrap.Modal(document.getElementById('authModal')).show();
 };
