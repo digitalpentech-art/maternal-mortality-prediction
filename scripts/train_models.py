@@ -10,12 +10,14 @@ from sklearn.metrics import (
     matthews_corrcoef, cohen_kappa_score
 )
 from sklearn.model_selection import train_test_split, cross_val_score
+import sys
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from src.config import Config
 from src.data_preprocessing.preprocessing import MaternalDataPreprocessor
 
 def train_and_evaluate():
     # 1. Load Data
-    data_path = "data/raw/MASHA DATA CODING.xlsx"
-    df = pd.read_excel(data_path, engine='openpyxl')
+    df = pd.read_excel(Config.DATA_PATH, engine='openpyxl')
     
     # 2. Preprocessing
     preprocessor = MaternalDataPreprocessor()
@@ -77,15 +79,13 @@ def train_and_evaluate():
     print("\nModel Comparison:\n", comparison_df)
     
     # 8. Save Artifacts
-    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    model_dir = os.path.join(base_dir, "models")
-    os.makedirs(model_dir, exist_ok=True)
+    os.makedirs(Config.MODEL_DIR, exist_ok=True)
     
-    joblib.dump(rf, os.path.join(model_dir, "random_forest.pkl"))
-    joblib.dump(ann, os.path.join(model_dir, "ann_model.pkl")) # Saving as pkl for simplicity in Flask
-    preprocessor.save_artifacts(model_dir)
+    joblib.dump(rf, os.path.join(Config.MODEL_DIR, "random_forest.pkl"))
+    joblib.dump(ann, os.path.join(Config.MODEL_DIR, "ann_model.pkl")) # Saving as pkl for simplicity in Flask
+    preprocessor.save_artifacts(Config.MODEL_DIR)
     
-    print(f"\nAll artifacts saved to {model_dir}")
+    print(f"\nAll artifacts saved to {Config.MODEL_DIR}")
     return comparison_df
 
 if __name__ == "__main__":
