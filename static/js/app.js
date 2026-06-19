@@ -1,13 +1,14 @@
 const API_BASE = '/api';
 
-function showPage(pageId) {
+function showPage(pageId, element) {
     // Update UI
     document.querySelectorAll('.page').forEach(p => p.classList.add('d-none'));
-    document.getElementById(`page-${pageId}`).classList.remove('d-none');
+    const targetPage = document.getElementById(`page-${pageId}`);
+    if (targetPage) targetPage.classList.remove('d-none');
     
     // Update Nav
     document.querySelectorAll('.nav-link').forEach(l => l.classList.remove('active'));
-    event?.target?.classList.add('active');
+    if (element) element.classList.add('active');
 
     // Trigger specific page loads
     if (pageId === 'home') loadHomeCharts();
