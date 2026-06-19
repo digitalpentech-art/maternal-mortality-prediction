@@ -11,7 +11,7 @@ import os
 class MaternalDataPreprocessor:
     def __init__(self):
         self.column_transformer = None
-        self.target_column = 'Outcome'
+        self.target_column = 'MMO'
         
     def get_feature_types(self, df):
         """
